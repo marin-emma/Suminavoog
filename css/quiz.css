@@ -13,21 +13,41 @@ body {
   min-height: 100vh;
 }
 
-.header1 {
+.header {
+  width: 100%;
+  background-color: white;
+  padding: 15px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quiz-header {
   width: 100%;
   background-color: #ffb0e1;
   padding: 15px 40px;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  flex-direction: column;
 }
 
 .container {
   width: 100%;
-  max-width: 950px; 
   margin: 20px auto;
   padding: 0 15px;
   flex: 1; 
+}
+
+.content-layout {
+  display: flex;
+  gap: 20px;
+}
+
+.quiz-section {
+  flex: 2;
+}
+
+.sidebar {
+  flex: 1;
 }
 
 .quiz-container {
@@ -38,10 +58,26 @@ body {
   margin-bottom: 20px;
 }
 
+.ad-box {
+  background-color: #dcdcdc;
+  min-height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
 footer {
   width: 100%;
   background-color: #ffb0e1;
   padding: 20px 0;
   border-top: 2px solid #ccc;
   text-align: center;
+}
+
+.footer-content {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  padding: 0 15px;
 }
