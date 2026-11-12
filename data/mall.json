@@ -1,0 +1,70 @@
+{
+  "title": "pealkiri",
+  "description": "seletus",
+  "results": {
+    "voimalus1": {
+      "title": "Sa oled ...",
+      "description": "sa blablabla",
+      "image": "images/"
+    },
+    "voimalus2": {
+      "title": "Sa oled ...",
+      "description": "sa blablabla",
+      "image": "images/"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "küsimus 1",
+      "options": [
+        {
+          "text": "vastus1",
+          "image": "images/",
+          "scores": { "võimalus1": 1 }
+        },
+        {
+          "text": "vastus2",
+          "image": "images/",
+          "scores": { "võimalus2": 1 }
+        },
+        {
+          "text": "vastus3",
+          "image": "images/",
+          "scores": { "võimalus1": 1 }
+        },
+        {
+          "text": "vastus4",
+          "image": "images/",
+          "scores": { "võimalus2": 1, "võimalus1": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "küsimus 2",
+      "options": [
+        {
+          "text": "vastus1",
+          "image": "images/",
+          "scores": { "võimalus1": 1 }
+        },
+        {
+          "text": "vastus2",
+          "image": "images/",
+          "scores": { "võimalus2": 1 }
+        },
+        {
+          "text": "vastus3",
+          "image": "images/",
+          "scores": { "võimalus1": 1 }
+        },
+        {
+          "text": "vastus4",
+          "image": "images/",
+          "scores": { "võimalus2": 1, "võimalus1": 1 }
+        }
+      ]
+    }
+  ]
+}
