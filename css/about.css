@@ -1,0 +1,254 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: 'Inter', Arial, sans-serif;
+    color: black;
+}
+
+.page {
+    width: 100%;
+    max-width: 1440px;
+    min-height: 1100px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+
+/* PÄIS */
+
+.header {
+    width: 100%;
+    height: 150px;
+    background-color: #DDDDDD;
+    position: relative;
+}
+
+/* Pealkiri */
+
+.site-title {
+    position: absolute;
+    left: 402px;
+    top: 18px;
+    width: 625px;
+    height: 115px;
+    margin: 0;
+
+    font-family: 'Inter', Arial, sans-serif;
+    font-size: 100px;
+    font-weight: 400;
+    text-align: center;
+}
+
+/* Logo */
+
+.logo {
+    position: absolute;
+    top: 0;
+    right: 90px;
+    left: auto;
+
+    width: 150px;
+    height: 150px;
+
+    border-radius: 50%;
+    background-color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 32px;
+}
+
+/* MEESKONNA LIIKMED */
+
+.team {
+    position: relative;
+    width: 100%;
+}
+
+
+.member {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.avatar {
+    background-color: #DDDDDD;
+}
+
+/* Mark */
+
+.mark {
+    left: 111px;
+    top: 73px;
+    width: 271px;
+}
+
+.mark .avatar {
+    width: 271px;
+    height: 271px;
+    border-radius: 50%;
+}
+
+.mark p {
+    position: absolute;
+    left: 88px;
+    top: 289px;
+    width: 95px;
+    height: 48px;
+    margin: 0;
+
+    font-size: 24px;
+    font-weight: 400;
+}
+
+/* Marin Emma */
+
+.emma {
+    left: 561px;
+    top: 73px;
+    width: 271px;
+}
+
+.emma .avatar {
+    width: 271px;
+    height: 271px;
+    border-radius: 50%;
+}
+
+.emma p {
+    position: absolute;
+    left: 39px;
+    top: 289px;
+    width: 193px;
+    height: 58px;
+    margin: 0;
+
+    font-size: 24px;
+    font-weight: 400;
+}
+
+/* Lauren */
+
+.lauren {
+    left: 1068px;
+    top: 73px;
+    width: 271px;
+}
+
+.lauren .avatar {
+    width: 271px;
+    height: 271px;
+    border-radius: 50%;
+}
+
+.lauren p {
+    position: absolute;
+    left: 44px;
+    top: 289px;
+    width: 183px;
+    height: 57px;
+    margin: 0;
+
+    font-size: 24px;
+    font-weight: 400;
+}
+
+/* TUTVUSTAV TEKST */
+
+.description {
+    position: absolute;
+    left: 50px;
+    top: 633px;
+
+    width: 1340px;
+    min-height: 275px;
+
+    padding: 0;
+}
+
+.description p {
+    margin: 0;
+
+    font-family: 'Inter', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 1.3;
+    letter-spacing: 0;
+}
+
+/* VÄIKSEMAD EKRAANID */
+
+@media (max-width: 768px) {
+
+    .page {
+        min-height: 850px;
+    }
+
+    .header {
+        height: 90px;
+    }
+
+    .site-title {
+        left: 10px;
+        top: 15px;
+        width: calc(100% - 90px);
+        height: 60px;
+        font-size: clamp(24px, 6vw, 40px);
+    }
+
+    .logo {
+        width: 70px;
+        height: 70px;
+        left: auto;
+        right: 10px;
+        font-size: 18px;
+    }
+
+    .team {
+        display: flex;
+        justify-content: space-around;
+        padding: 20px 5px;
+    }
+
+    .member {
+        position: static;
+        width: 33.33%;
+    }
+
+    .avatar {
+        width: 80px !important;
+        height: 80px !important;
+        border-radius: 50% !important;
+    }
+
+    .member p {
+        position: static;
+        width: auto;
+        height: auto;
+        margin-top: 10px;
+        font-size: 16px;
+    }
+
+    .description {
+        position: static;
+        width: calc(100% - 30px);
+        min-height: 200px;
+        margin: 40px 15px;
+    }
+
+    .description p {
+        font-size: 24px;
+    }
+}
