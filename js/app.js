@@ -1,6 +1,7 @@
 let quizData = null;       
 let scores = {};          
 let selectedAnswers = {}; 
+let currentQuizColor = '#F050AE';
 
 const randomColors = [
   '#33A8C7',
@@ -88,7 +89,7 @@ function renderQuiz() {
   const container = document.getElementById('quiz-container');
   let html = '';
 
-  const quizColor = randomColors[Math.floor(Math.random() * randomColors.length)];
+  const currentQuizColor = randomColors[Math.floor(Math.random() * randomColors.length)];
 
   quizData.questions.forEach((q, qIndex) => {
     html += `
@@ -101,7 +102,7 @@ function renderQuiz() {
           ${q.options.map((opt, optIndex) => {
             const btnStyle = opt.image 
               ? `style="background-image: url('${opt.image}');"` 
-              : `style="background-color: ${quizColor}; color: #FFFFFF;"`;
+              : `style="background-color: ${currentQuizColor}; color: #FFFFFF;"`;
             const btnClass = opt.image ? 'option-btn has-option-img' : 'option-btn';
 
             const creditHtml = (opt.image && opt.credit)
@@ -173,7 +174,8 @@ function showResult() {
 
   const result = quizData.results[winningKey];
 
-  document.getElementById('result-title').innerText = result.title;
+  const resultTitle = document.getElementById('result-title');
+  resultTitle.innerText = result.title;
   document.getElementById('result-image').src = result.image;
   document.getElementById('result-description').innerText = result.description;
 
@@ -189,6 +191,16 @@ function showResult() {
   }
 
   const resultContainer = document.getElementById('result-container');
+
+  resultContainer.style.backgroundColor = currentQuizColor;
+  resultContainer.style.backgroundColor = currentQuizColor;
+  resultContainer.style.color = '#FFFFFF';
+
+  resultTitle.style.backgroundColor = '#FFFFFF';
+  resultTitle.style.color = '#1A1A1A'
+
+
+
   resultContainer.classList.remove('hidden');
   resultContainer.scrollIntoView({ behavior: 'smooth' });
 }
