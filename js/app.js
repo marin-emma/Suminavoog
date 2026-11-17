@@ -3,17 +3,26 @@ let scores = {};
 let selectedAnswers = {}; 
 
 const randomColors = [
-  '#FFD1DC', 
-  '#B5EAD7',
-  '#C7CEEA', 
-  '#FFDAC1', 
-  '#E2F0CB', 
-  '#F3D1F4'  
+  '#33A8C7',
+  '#23A6A4',
+  '#6DA614', 
+  '#C79A00', 
+  '#D98600', 
+  '#E05A57', 
+  '#F050AE', 
+  '#B65CE0', 
+  '#9336FD', 
+  '#9F45E8',
+  '#C448B6',
+  '#E04877',
+  '#D96E18',
+  '#8AA814',
+  '#38A846',
+  '#229AA8'
 ];
 
 const isIndexPage = document.getElementById('quiz-list-container') !== null;
 const isQuizPage = document.getElementById('quiz-container') !== null;
-
 
 if (isIndexPage) {
   fetch('data/quizzes.json')
@@ -32,11 +41,16 @@ function renderQuizCards(quizzes) {
   let html = ''; 
 
   quizzes.forEach(quiz => {
+    const creditLine = quiz.credit
+      ? `<small style="color: #666; font-style: italic; display: block; margin-top: 4px;">${quiz.credit}</small>`
+      : '';
+
     html += `
       <a href="quiz.html?test=${quiz.id}" class="quiz-preview-card">
         <img src="${quiz.image}" alt="${quiz.title}">
         <div class="card-text">
           <h3>${quiz.title}</h3>
+          ${creditLine}
         </div>
       </a>
     `;
@@ -55,6 +69,10 @@ if (isQuizPage) {
     .then(data => {
       quizData = data; 
 
+      quizData.questions.forEach(q => {
+        q.options.sort(() => Math.random() - 0.5);
+      });                        
+
       document.getElementById('banner-title').innerText = quizData.title;
       document.getElementById('banner-desc').innerText = quizData.description;
 
@@ -70,27 +88,30 @@ function renderQuiz() {
   const container = document.getElementById('quiz-container');
   let html = '';
 
-  const shuffledColors = [...randomColors].sort(() => Math.random() - 0.5);
+  const quizColor = randomColors[Math.floor(Math.random() * randomColors.length)];
 
   quizData.questions.forEach((q, qIndex) => {
-    const pairColor = shuffledColors[qIndex % shuffledColors.length];
-
     html += `
       <div class="question-block" id="q-${qIndex}">
-        <div class="question-box" style="background-color: ${pairColor};">
-          <h3 class="question-title">${qIndex + 1}. ${q.text}</h3>
+        <div class="question-box" style="background-color: ${quizColor}; color: #FFFFFF;">
+          <h3 class="question-title">${q.text}</h3>
         </div>
 
         <div class="options-grid">
           ${q.options.map((opt, optIndex) => {
             const btnStyle = opt.image 
               ? `style="background-image: url('${opt.image}');"` 
-              : `style="background-color: ${pairColor};"`;
+              : `style="background-color: ${quizColor}; color: #FFFFFF;"`;
             const btnClass = opt.image ? 'option-btn has-option-img' : 'option-btn';
+
+            const creditHtml = (opt.image && opt.credit)
+              ? `<span class="img-credit">${opt.credit}</span>`
+              : '';
 
             return `
               <button type="button" class="${btnClass}" ${btnStyle} onclick="selectOption(${qIndex},${optIndex})">
-                <span>${opt.text}</span>
+                ${creditHtml}
+                <span class="option-text">${opt.text}</span>
               </button>
             `;
           }).join('')} 
@@ -106,8 +127,10 @@ function selectOption(qIndex, optIndex) {
   selectedAnswers[qIndex] = optIndex;
 
   const questionBlock = document.getElementById(`q-${qIndex}`);
-  const buttons = questionBlock.querySelectorAll('.option-btn');
+  const gridEL = questionBlock.querySelector('.options-grid');
+  gridEL.classList.add('has-selection');
 
+  const buttons = questionBlock.querySelectorAll('.option-btn');
   buttons.forEach(btn => btn.classList.remove('selected'));
   buttons[optIndex].classList.add('selected');
 
@@ -153,6 +176,17 @@ function showResult() {
   document.getElementById('result-title').innerText = result.title;
   document.getElementById('result-image').src = result.image;
   document.getElementById('result-description').innerText = result.description;
+
+  const resultImgBox = document.querySelector('.result-image-box');
+  const oldCredit = resultImgBox.querySelector('.img-credit');
+  if (oldCredit) oldCredit.remove();
+
+  if (result.credit) {
+    const creditSpan = document.createElement('span');
+    creditSpan.className = 'img-credit';
+    creditSpan.innerText = result.credit;
+    resultImgBox.appendChild(creditSpan);
+  }
 
   const resultContainer = document.getElementById('result-container');
   resultContainer.classList.remove('hidden');
