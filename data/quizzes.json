@@ -2,11 +2,13 @@
   {
     "id": "",                          
     "title": "",        
-    "image": "images/"          
+    "image": "images/",
+    "credit": "credit"         
   },
 {
     "id": "",                   
     "title": "",
-    "image": "images/"
+    "image": "images/",
+    "credit": "credit"
   }
 ]
