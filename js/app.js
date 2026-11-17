@@ -89,12 +89,12 @@ function renderQuiz() {
   const container = document.getElementById('quiz-container');
   let html = '';
 
-  const currentQuizColor = randomColors[Math.floor(Math.random() * randomColors.length)];
+  currentQuizColor = randomColors[Math.floor(Math.random() * randomColors.length)];
 
   quizData.questions.forEach((q, qIndex) => {
     html += `
       <div class="question-block" id="q-${qIndex}">
-        <div class="question-box" style="background-color: ${quizColor}; color: #FFFFFF;">
+        <div class="question-box" style="background-color: ${currentQuizColor}; color: #FFFFFF;">
           <h3 class="question-title">${q.text}</h3>
         </div>
 
@@ -193,13 +193,11 @@ function showResult() {
   const resultContainer = document.getElementById('result-container');
 
   resultContainer.style.backgroundColor = currentQuizColor;
-  resultContainer.style.backgroundColor = currentQuizColor;
+  resultContainer.style.border = currentQuizColor;
   resultContainer.style.color = '#FFFFFF';
 
   resultTitle.style.backgroundColor = '#FFFFFF';
   resultTitle.style.color = '#1A1A1A'
-
-
 
   resultContainer.classList.remove('hidden');
   resultContainer.scrollIntoView({ behavior: 'smooth' });
