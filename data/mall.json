@@ -5,12 +5,14 @@
     "voimalus1": {
       "title": "Sa oled ...",
       "description": "sa blablabla",
-      "image": "images/"
+      "image": "images/",
+      "credit": "credit"
     },
     "voimalus2": {
       "title": "Sa oled ...",
       "description": "sa blablabla",
-      "image": "images/"
+      "image": "images/",
+      "credit": "credit"
     }
   },
   "questions": [
@@ -21,21 +23,25 @@
         {
           "text": "vastus1",
           "image": "images/",
+          "credit": "credit",
           "scores": { "võimalus1": 1 }
         },
         {
           "text": "vastus2",
           "image": "images/",
+          "credit": "credit",
           "scores": { "võimalus2": 1 }
         },
         {
           "text": "vastus3",
           "image": "images/",
+          "credit": "credit",
           "scores": { "võimalus1": 1 }
         },
         {
           "text": "vastus4",
           "image": "images/",
+          "credit": "credit",
           "scores": { "võimalus2": 1, "võimalus1": 1 }
         }
       ]
@@ -47,21 +53,25 @@
         {
           "text": "vastus1",
           "image": "images/",
+          "credit": "credit",
           "scores": { "võimalus1": 1 }
         },
         {
           "text": "vastus2",
           "image": "images/",
+          "credit": "credit",
           "scores": { "võimalus2": 1 }
         },
         {
           "text": "vastus3",
           "image": "images/",
+          "credit": "credit",
           "scores": { "võimalus1": 1 }
         },
         {
           "text": "vastus4",
           "image": "images/",
+          "credit": "credit",
           "scores": { "võimalus2": 1, "võimalus1": 1 }
         }
       ]
