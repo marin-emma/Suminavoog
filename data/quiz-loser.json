@@ -1,0 +1,286 @@
+{
+  "title": "Kas sa oled luuser või mitte?",
+  "description": "Vali oma lemmik film nendest filmisarjadest ja ma ütlen kas sa oled luuser või mitte!",
+  "results": {
+    "loser": {
+      "title": "Sa oled luuser",
+      "description": "Sul on kohutav maitse ja sul peaks piinlik olema. Ole tulevikus parem!",
+      "image": "images/loser.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@liamd197?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Liam Nguyen</a> / <a href='https://unsplash.com/photos/red-love-neon-light-signage-pNuYJM7K8sY?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    },
+    "not-loser": {
+      "title": "Sa ei ole luuser",
+      "description": "Sul on potentsiaali, kuid pead oma maitset veel kultiveerima. Edu!",
+      "image": "images/not-loser.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@badun?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Anastasiya Badun</a> / <a href='https://unsplash.com/photos/a-hand-giving-a-thumbs-up-sign-against-a-green-background-DHvKXnq2IfU?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    },
+    "okay": {
+      "title": "Sa oled okei",
+      "description": "Sul eliit palli teadmised. Palju õnne!",
+      "image": "images/okay.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@loganvoss?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Logan Voss</a> / <a href='https://unsplash.com/photos/3d-white-okay-text-on-a-glowing-grid-background-GCF4k44_eKQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Vali oma lemmik Autode film",
+      "options": [
+        {
+          "text": "Autod 1",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Autod 2",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "Autod 3",
+          "scores": { "loser": 10 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Vali oma lemmik Shreki film",
+      "options": [
+        {
+          "text": "Shrek",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Shrek 2",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Shrek Kolmas",
+          "scores": { "loser": 10 }
+        },
+        {
+          "text": "Shrek nüüd ja igavesti",
+          "scores": { "okay": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Vali oma lemmik Madagascari film",
+      "options": [
+        {
+          "text": "Madagaskar 1",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Madagaskar 2",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Madagaskar 3: Euroopa tagaotsituimad",
+          "scores": { "okay": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Vali oma lemmik Jääaja film",
+      "options": [
+        {
+          "text": "Jääaeg 1",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "Jääaeg 2 - Suur sula",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Jääaeg 3",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Jääaeg 4",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Jääaeg: Kokkupõrge",
+          "scores": { "loser": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Vali oma lemmik Sõrmuste isanda film",
+      "options": [
+        {
+          "text": "Sõrmuse vennaskond",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Kaks kantsi",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Kuninga tagasitulek",
+          "scores": { "okay": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Vali oma lemmik Üksinda kodus film",
+      "options": [
+        {
+          "text": "Üksinda kodus 1",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Üksinda kodus 2: Kadunud New Yorgis",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Üksinda kodus 3",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "Üksinda kodus 4",
+          "scores": { "loser": 1 }
+        },
+        {
+          "text": "Üksinda kodus 5",
+          "scores": { "loser": 1 }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Vali oma lemmik Tähtede sõja film",
+      "options": [
+        {
+          "text": "Tähtede sõda",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "Impeeriumi vastulöök",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "Jedi tagasitulek",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "Nähtamatu oht",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Kloonide rünnak",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Sithi kättemaks",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Jõud tärkab",
+          "scores": { "loser": 1 }
+        },
+        {
+          "text": "Viimased jedid",
+          "scores": { "loser": 1 }
+        },
+        {
+          "text": "Skywalkeri tõus",
+          "scores": { "loser": 1 }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Vali oma lemmik Videviku film",
+      "options": [
+        {
+          "text": "Videvik",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "Noorkuu",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Päikesevarjutus",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Koidukuma - osa 1",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Koidukuma - osa 2",
+          "scores": { "not-loser": 1 }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Vali oma lemmik X-meeste film",
+      "options": [
+        {
+          "text": "X-mehed",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "X-mehed 2",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "X-mehed: Viimane vastuhakk",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "X-mehed: Esimene klass",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "X-mehed: Tulevase möödaniku päevad",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "X-mehed: Apokalüpsis",
+          "scores": { "loser": 10 }
+        },
+        {
+          "text": "X-mehed: Tume fööniks",
+          "scores": { "loser": 10 }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Vali oma lemmik Näljamängude film",
+      "options": [
+        {
+          "text": "Näljamängud",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "Näljamängud: Lahvatab leek",
+          "scores": { "okay": 1 }
+        },
+        {
+          "text": "Näljamängud: Pilapasknäär - osa 1",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Näljamängud: Pilapasknäär - osa 2",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Näljamängud: Laululindude ja madude ballaad",
+          "scores": { "not-loser": 1 }
+        },
+        {
+          "text": "Näljamängud: Lõikuspäeva päikesetõus",
+          "scores": { "not-loser": 1 }
+        }
+      ]
+    }
+  ]
+}
