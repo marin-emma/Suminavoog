@@ -176,8 +176,11 @@ function showResult() {
 
   const resultTitle = document.getElementById('result-title');
   resultTitle.innerText = result.title;
+
   document.getElementById('result-image').src = result.image;
-  document.getElementById('result-description').innerText = result.description;
+
+  const resultDescription = document.getElementById('result-description');
+  resultDescription.innerText = result.description;
 
   const resultImgBox = document.querySelector('.result-image-box');
   const oldCredit = resultImgBox.querySelector('.img-credit');
@@ -186,7 +189,7 @@ function showResult() {
   if (result.credit) {
     const creditSpan = document.createElement('span');
     creditSpan.className = 'img-credit';
-    creditSpan.innerText = result.credit;
+    creditSpan.innerHTML = result.credit;
     resultImgBox.appendChild(creditSpan);
   }
 
@@ -197,7 +200,10 @@ function showResult() {
   resultContainer.style.color = '#FFFFFF';
 
   resultTitle.style.backgroundColor = '#FFFFFF';
-  resultTitle.style.color = '#1A1A1A'
+  resultTitle.style.color = '#1A1A1A';
+
+  resultDescription.style.backgroundColor = '#FFFFFF';
+  resultDescription.style.color = '#1A1A1A';
 
   resultContainer.classList.remove('hidden');
   resultContainer.scrollIntoView({ behavior: 'smooth' });
