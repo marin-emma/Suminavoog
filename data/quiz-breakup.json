@@ -1,0 +1,692 @@
+{
+  "title": "Kas sul on õigus või mitte?",
+  "description": "Vali, kelle poolt sa kuulsuste lahkuminekutes oled ja ma ütlen, kas sul on õigus!",
+  "results": {
+    "angel": {
+      "title": "Sa oled ingel",
+      "description": "Sul on täiesti õigus!",
+      "image": "images/angel.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@danist07?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Danist Soh</a> / <a href='https://unsplash.com/photos/aerial-photograph-of-clouds-5D47VsGV86c?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    },
+    "correct": {
+      "title": "Sa oled poliitiliselt korrektne",
+      "description": "Tehniliselt on sul õigus, aga kuidagi ei ole ka.",
+      "image": "images/correct.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@marcooriolesi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Marco Oriolesi</a> / <a href='https://unsplash.com/photos/legislative-chamber-with-red-seats-wqLGlhjr6Og?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    },
+    "educate": {
+      "title": "Sa pead ennast rohkem erudeerima",
+      "description": "Olukord ei ole veel katastroofiline, aga peaksid ennast harima.",
+      "image": "images/educate.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@emilwidlund?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Emil Widlund</a> / <a href='https://unsplash.com/photos/photo-of-brown-wooden-bookshelf-xrbbXIXAWY0?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    },
+    "hell": {
+      "title": "Sa põled põrgus",
+      "description": "Sa oled lihtsalt kriminaalne.",
+      "image": "images/hell.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@rgaleriacom?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Ricardo Gomez Angel</a> / <a href='https://unsplash.com/photos/orange-and-yellow-abstract-painting-7RuhOrZO-1g?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Helena Bonham Carter & Tim Burton",
+      "options": [
+        {
+          "text": "Helena Bonham Carter",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Tim Burton",
+          "scores": { "hell": 10 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Kim Kardashian & Kanye West",
+      "options": [
+        {
+          "text": "Kim Kardashian",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kanye West",
+          "scores": { "hell": 10 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Andrew Garfield & Emma Stone",
+      "options": [
+        {
+          "text": "Andrew Garfield",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Emma Stone",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "angel": 1, "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Ben Affleck & Jennifer Lopez",
+      "options": [
+        {
+          "text": "Ben Affleck",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Jennifer Lopez",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Donald Trump & Elon Musk",
+      "options": [
+        {
+          "text": "Donald Trump",
+          "scores": { "hell": 100 }
+        },
+        {
+          "text": "Elon Musk",
+          "scores": { "hell": 100 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "hell": 100 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1, "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Jennifer Garner & Ben Affleck",
+      "options": [
+        {
+          "text": "Jennifer Garner",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Ben Affleck",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Miley Cyrus & Liam Hemsworth",
+      "options": [
+        {
+          "text": "Miley Cyrus",
+          "scores": { "angel": 1 }
+        },
+        {
+          "text": "Liam Hemsworth",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Brad Pitt & Angelina Jolie",
+      "options": [
+        {
+          "text": "Brad Pitt",
+          "scores": { "hell": 100 }
+        },
+        {
+          "text": "Angelina Jolie",
+          "scores": { "angel": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Pete Davidson & Ariana Grande",
+      "options": [
+        {
+          "text": "Pete Davidson",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Ariana Grande",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Ryan Reynolds & Scarlett Johansson",
+      "options": [
+        {
+          "text": "Ryan Reynolds",
+          "scores": { "hell": 1 }
+        },
+        {
+          "text": "Scarlett Johansson",
+          "scores": { "angel": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Justin Bieber & Selena Gomez",
+      "options": [
+        {
+          "text": "Justin Bieber",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Selena Gomez",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Sarah Jessica Parker & Robert Downey Jr.",
+      "options": [
+        {
+          "text": "Sarah Jessica Parker",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Robert Downey Jr.",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Ethan Hawke & Uma Thurman",
+      "options": [
+        {
+          "text": "Ethan Hawke",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Uma Thurman",
+          "scores": { "angel": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Dennis Quaid & Meg Ryan",
+      "options": [
+        {
+          "text": "Dennis Quaid",
+          "scores": { "hell": 1 }
+        },
+        {
+          "text": "Meg Ryan",
+          "scores": { "angel": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Jennifer Aniston & Brad Pitt",
+      "options": [
+        {
+          "text": "Jennifer Aniston",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Brad Pitt",
+          "scores": { "hell": 100 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Brad Pitt & Gwyneth Paltrow",
+      "options": [
+        {
+          "text": "Brad Pitt",
+          "scores": { "hell": 100 }
+        },
+        {
+          "text": "Gwyneth Paltrow",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1, "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Amber Heard & Johnny Depp",
+      "options": [
+        {
+          "text": "Amber Heard",
+          "scores": { "angel": 1 }
+        },
+        {
+          "text": "Johnny Depp",
+          "scores": { "hell": 100 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Bryce Hall & Addison Rae",
+      "options": [
+        {
+          "text": "Bryce Hall",
+          "scores": { "hell": 1 }
+        },
+        {
+          "text": "Addison Rae",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Charli D'Amelio & Lil Huddy",
+      "options": [
+        {
+          "text": "Charli D'Amelio",
+          "scores": { "angel": 1 }
+        },
+        {
+          "text": "Lil Huddy",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Shakira & Gerard Piqué",
+      "options": [
+        {
+          "text": "Shakira",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Gerard Piqué",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Scott Disick & Kourtney Kardashian",
+      "options": [
+        {
+          "text": "Scott Disick",
+          "scores": { "hell": 1 }
+        },
+        {
+          "text": "Kourtney Kardashian",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Louis Partridge & Olivia Rodrigo",
+      "options": [
+        {
+          "text": "Louis Partridge",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Olivia Rodrigo",
+          "scores": { "angel": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Shakira & Lewis Hamilton",
+      "options": [
+        {
+          "text": "Shakira",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Lewis Hamilton",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Taylor Swift & Joe Alwyn",
+      "options": [
+        {
+          "text": "Taylor Swift",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Joe Alwyn",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Sophie Turner & Joe Jonas",
+      "options": [
+        {
+          "text": "Sophie Turner",
+          "scores": { "angel": 1 }
+        },
+        {
+          "text": "Joe Jonas",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Megan Thee Stallion & Klay Thompson",
+      "options": [
+        {
+          "text": "Megan Thee Stallion",
+          "scores": { "angel": 1 }
+        },
+        {
+          "text": "Klay Thompson",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Lamar Odom & Khloé Kardashian",
+      "options": [
+        {
+          "text": "Lamar Odom",
+          "scores": { "hell": 1 }
+        },
+        {
+          "text": "Khloé Kardashian",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Chris Brown & Rihanna",
+      "options": [
+        {
+          "text": "Chris Brown",
+          "scores": { "hell": 100 }
+        },
+        {
+          "text": "Rihanna",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Shawn Mendes & Camila Cabello",
+      "options": [
+        {
+          "text": "Shawn Mendes",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Camila Cabello",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "angel": 1 }
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Sabrina Carpenter & Barry Keoghan",
+      "options": [
+        {
+          "text": "Sabrina Carpenter",
+          "scores": { "angel": 1 }
+        },
+        {
+          "text": "Barry Keoghan",
+          "scores": { "educate": 1 }
+        },
+        {
+          "text": "Mõlema",
+          "scores": { "correct": 1 }
+        },
+        {
+          "text": "Kummagi",
+          "scores": { "correct": 1 }
+        }
+      ]
+    }
+  ]
+}
