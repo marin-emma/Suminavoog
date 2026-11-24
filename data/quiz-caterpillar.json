@@ -1,0 +1,236 @@
+{
+  "title": "Milline röövik sa oled?",
+  "description": "Vasta küsimustele ja ma ütlen, milline röövik sa oled!",
+  "results": {
+    "privet": {
+      "title": "Sa oled Sirelisuru",
+      "description": "Sa oled üksildase eluviisiga. Sa oled painduv ja sulle meeldib jooga. Ohu korral kõigud sa küljelt küljele ja võid suust eritada rohelist vedelikku. Sulle meeldib maa alla ronida.",
+      "image": "images/privet.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Sphinx_ligustri,_the_privet_hawk_moth_caterpillar_-IMG_4919.jpg' target='_blank'>Bijay chaurasia</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0' target='_blank'>CC BY-SA 4.0</a>, via Wikimedia Commons"
+    },
+    "tiger": {
+      "title": "Sa oled Harilik päevakoer",
+      "description": "Sa oled väga aktiivne ja kiire. Sa toitud väga mitmekesiselt. Ohu korral tõmbad sa kerra nagu mürgiste karvadega siil. Sa oled väga karvane. Sa liigud palju jala. ",
+      "image": "images/tiger.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Two_garden_tiger_moth_caterpillars.jpg' target='_blank'>Baykedevries</a>, <a href='https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en' target='_blank'>CC BY-SA 3.0 NL</a>, via Wikimedia Commons"
+    },
+    "elephant": {
+      "title": "Sa oled Suur-punasuru",
+      "description": "Sa oled eriti aktiivne öösel ja hämarikus. Sa oled taimetoitlane. Ohus olles teed sa ennast suureks ja imiteerid madu. ",
+      "image": "images/elephant.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Elephant_Hawk_Moth_caterpillar_-_geograph.org.uk_-_5504689.jpg' target='_blank'>Elephant Hawk Moth caterpillar by Robin Webster</a>, <a href='https://creativecommons.org/licenses/by-sa/2.0' target='_blank'>CC BY-SA 2.0</a>, via Wikimedia Commons"
+    },
+    "peacock": {
+      "title": "Sa oled Päevapaabusilm",
+      "description": "Sa oled seltsihimuline. Noorena elad sa suures koloonias. Sulle meeldib kududa. Ohus olles tõmbled sa rütmiliselt. Suuremaks kasvades otsid sa vähem seltsi.",
+      "image": "images/peacock.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Peacock_(Aglais_io)_caterpillar_Ruggeller_Riet.jpg' target='_blank'>Charles J. Sharp</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0' target='_blank'>CC BY-SA 4.0</a>, via Wikimedia Commons"
+    },
+    "puss": {
+      "title": "Sa oled Suur-harksaba",
+      "description": "Sa elad üksi looduses. Sa oled dramaatiline. Ohus olles teed sa kurja näo, vehid oma sabaga ja pritsid vaenlase suunas sipelghapet.",
+      "image": "images/puss.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Puss_Moth_caterpillar_in_South_Cliff_Gardens_-_geograph.org.uk_-_1987996.jpg' target='_blank'>Puss Moth caterpillar in South Cliff Gardens by John S Turner</a>, <a href='https://creativecommons.org/licenses/by-sa/2.0' target='_blank'>CC BY-SA 2.0</a>, via Wikimedia Commons"
+    },
+    "large-white": {
+      "title": "Sa oled Suur-kapsaliblikas",
+      "description": "Noorena oled sa seltsiv ja hoiad teistest tugevalt kinni. Sa oled julge ning ei peida end. Ohus olles eritad sa suust kibedat rohelist vedelikku. Täiskasvanu eas ronid sa teistest kaugele.",
+      "image": "images/large-white.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Large_white_butterfly_caterpillar.jpg' target='_blank'>Michael Palmer</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0' target='_blank'>CC BY-SA 4.0</a>, via Wikimedia Commons"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Su sõbrad iseloomustaks sind nii",
+      "options": [
+        {
+          "text": "Terav",
+          "scores": { "privet": 1 }
+        },
+        {
+          "text": "Soe",
+          "scores": { "tiger": 1 }
+        },
+        {
+          "text": "Salajane",
+          "scores": { "elephant": 1 }
+        },
+        {
+          "text": "Julge",
+          "scores": { "peacock": 1 }
+        },
+        {
+          "text": "Isepärane",
+          "scores": { "puss": 1 }
+        },
+        {
+          "text": "Rõõmsameelne",
+          "scores": { "large-white": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Reede õhtul sa",
+      "options": [
+        {
+          "text": "Vaatan filme",
+          "scores": { "privet": 1 }
+        },
+        {
+          "text": "Koon ja joon",
+          "scores": { "tiger": 1 }
+        },
+        {
+          "text": "Teen täiesti legaalseid asju",
+          "scores": { "elephant": 1 }
+        },
+        {
+          "text": "Hängin linna peal",
+          "scores": { "peacock": 1 }
+        },
+        {
+          "text": "Esinen impro laval",
+          "scores": { "puss": 1 }
+        },
+        {
+          "text": "Söön kolmekäigulist õhtusööki",
+          "scores": { "large-white": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Su lemmik toit on",
+      "options": [
+        {
+          "text": "Õunakook",
+          "scores": { "privet": 1 }
+        },
+        {
+          "text": "Grillitud päevalilleõis",
+          "scores": { "tiger": 1 }
+        },
+        {
+          "text": "Viinamakaronid",
+          "scores": { "elephant": 1 }
+        },
+        {
+          "text": "Nõgesesupp",
+          "scores": { "peacock": 1 }
+        },
+        {
+          "text": "Arbuusisalat",
+          "scores": { "puss": 1 }
+        },
+        {
+          "text": "Ühepajatoit",
+          "scores": { "large-white": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Peole kannaksid sa",
+      "options": [
+        {
+          "text": "",
+          "image": "images/striped.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@enginakyurt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>engin akyurt</a> / <a href='https://unsplash.com/photos/person-wearing-striped-white-trousers-5o36qPAwaQU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "privet": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/fur.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@tonchik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Anton Savinov</a> / <a href='https://unsplash.com/photos/a-fur-coat-hanging-on-a-rack-in-a-store-UNVxuJytjDM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "tiger": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/boots.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@bever17?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>beverly rodriguez</a> / <a href='https://unsplash.com/photos/brown-leather-open-toe-heeled-shoe-ZzHAdoAFsXQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "elephant": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/leather.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@adrianordonez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Adrian Ordonez</a> / <a href='https://unsplash.com/photos/man-holding-his-leather-jacket-P0W27GRvyww?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "peacock": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/crazy.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@jmespiga?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Jose Manuel Esp</a> / <a href='https://unsplash.com/photos/a-woman-in-a-pink-dress-and-hat-walking-down-the-street-iPjRJemukhw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "puss": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/polkadot.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@enginakyurt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>engin akyurt</a> / <a href='https://unsplash.com/photos/person-in-red-polka-dot-skirt-A-h203miYWo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "large-white": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Peol oled sa",
+      "options": [
+        {
+          "text": "DJ’lt soovilugu küsimas",
+          "scores": { "privet": 1 }
+        },
+        {
+          "text": "Keset tantsupõrandat",
+          "scores": { "tiger": 1 }
+        },
+        {
+          "text": "Seina vastas",
+          "scores": { "elephant": 1 }
+        },
+        {
+          "text": "Baari kõrval",
+          "scores": { "peacock": 1 }
+        },
+        {
+          "text": "Valjusti kaasa laulmas",
+          "scores": { "puss": 1 }
+        },
+        {
+          "text": "Vannitoas kellegi juukseid hoidmas",
+          "scores": { "large-white": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Su parim omadus on",
+      "options": [
+        {
+          "text": "Mu iseseisvus",
+          "scores": { "privet": 1 }
+        },
+        {
+          "text": "Mu juuksed",
+          "scores": { "tiger": 1 }
+        },
+        {
+          "text": "Mu detektiivioskused",
+          "scores": { "elephant": 1 }
+        },
+        {
+          "text": "Mu moetunnetus ja stiil",
+          "scores": { "peacock": 1 }
+        },
+        {
+          "text": "Mu huumorimeel",
+          "scores": { "puss": 1 }
+        },
+        {
+          "text": "Mu positiivsus",
+          "scores": { "large-white": 1 }
+        }
+      ]
+    }
+  ]
+}

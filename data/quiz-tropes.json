@@ -1,0 +1,236 @@
+{
+  "title": "Milline filmitegelase arhetüüp sa oled?",
+  "description": "Vasta küsimustele ja ma ütlen, milline filmitegelase arhetüüp sa oled!",
+  "results": {
+    "main-character": {
+      "title": "Sa oled Peategelane",
+      "description": "Sa ei ole nagu teised, terve maailm keerleb sinu ümber. Su huvid on nii erilised ja sai ei lähe peavoolumeediaga kaasa. Sa ei tea, et sa ilus oled.",
+      "image": "images/main-character.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@geikeverniers?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Geike Verniers</a> / <a href='https://unsplash.com/photos/a-person-sitting-on-a-ledge-with-a-violin-qRFhpx4773w?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    },
+    "funny-sidekick": {
+      "title": "Sa oled Naljakas kõrvaltegelane",
+      "description": "Su roll on pingeid maandada ja teisi naerma ajada. Sul on alati mõni naljakas lause tagataskus. Teised ei sõltu sinusse alati tõsiselt, kuid sul on ootamatuid sügavamaid külgi. ",
+      "image": "images/funny-sidekick.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@chuchu123456?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Chu CHU</a> / <a href='https://unsplash.com/photos/young-person-in-mid-air-jump-outdoors-uHAnKF4V__Y?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    },
+    "final-girl": {
+      "title": "Sa oled Viimane ellujääja",
+      "description": "Sa oled samaaegselt ohver ja kangelane. Sa oled moraalselt veatu. Sa oled leidlik ja sind saadab õnn. Pead ennast ise päästma, sest kõik teised on läinud.",
+      "image": "images/final-girl.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@wangsheeran?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Wang Sheeran</a> / <a href='https://unsplash.com/photos/a-woman-standing-in-a-doorway-with-a-knife-in-her-hand-92Mw7xuwrKw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    },
+    "chosen-one": {
+      "title": "Sa oled Äravalitu",
+      "description": "Sind on kõrgema jõu poolt valitud, millegi suure kordasaatmiseks. Sul on raske valida enda soovide ja teiste ootuste täitmise vahel. Sulle meeldib käituda ennastohverdavalt.",
+      "image": "images/chosen-one.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@lancereis?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Lance Reis</a> / <a href='https://unsplash.com/photos/a-woman-in-a-long-dress-holding-a-sword--bdkcqho_20?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    },
+    "dumb-jock": {
+      "title": "Sa oled Ajuta sportlane",
+      "description": "Sa oled spordis väga andekas, kuid see ei pruugi muudele valdkondadele üle kanduda. Sa oled lihtsameelne ja ei muretse millegi pärast, küll kuidagi saab. Sa peidad enda ebakindluseid macho fassaadi taga.",
+      "image": "images/dumb-jock.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@writtenmirror?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Jay Mullings</a> / <a href='https://unsplash.com/photos/man-in-black-hoodie-standing-on-green-grass-field-under-blue-sky-during-daytime-ld38tKzjfjY?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    },
+    "nerd": {
+      "title": "Sa oled Nohik",
+      "description": "Sa oled intelligentne, kuid sotsiaalselt kohmakas. Sul võib olla raskusi emotsioonide lugemisega. Võimalik, et sa pole kunagi vastassoo seltsis viibinud.",
+      "image": "images/nerd.jpg",
+      "credit": "Foto: <a href='https://unsplash.com/@silverkblack?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Vitaly Gariev</a> / <a href='https://unsplash.com/photos/man-with-glasses-thinking-in-front-of-chalkboard-tGUVUln4xQM?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Mida sa kontserdil teed?",
+      "options": [
+        {
+          "text": "Loen raamatut",
+          "scores": { "main-character": 1 }
+        },
+        {
+          "text": "Tantsin võõrastega",
+          "scores": { "funny-sidekick": 1 }
+        },
+        {
+          "text": "Trügin täpselt lava ette",
+          "scores": { "final-girl": 1 }
+        },
+        {
+          "text": "Mind kutsuti lavale",
+          "scores": { "chosen-one": 1 }
+        },
+        {
+          "text": "Üritan crowd surfida",
+          "scores": { "dumb-jock": 1 }
+        },
+        {
+          "text": "Mõtlen lüürikale",
+          "scores": { "nerd": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Mis on su go-to outfit?",
+      "options": [
+        {
+          "text": "",
+          "image": "images/messy-bun.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@yaanapi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Yanapi Senaud</a> / <a href='https://unsplash.com/photos/woman-sight-seeing-on-bridge-pIkQ9XJcN10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "main-character": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/clown.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@arlindphotography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Arlind Photography</a> / <a href='https://unsplash.com/photos/colorful-clown-stands-by-a-tree-on-a-city-street-kGR4HNOEXgg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "funny-sidekick": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/t-shirt.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@anhdung?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Dung Anh</a> / <a href='https://unsplash.com/photos/woman-in-crop-top-and-jeans-lUJyfcMQLfA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "final-girl": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/hand-me-down.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@saylabrown?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Sayla Brown</a> / <a href='https://unsplash.com/photos/woman-in-white-tank-top-and-black-pants-sitting-on-bed-5Ix0L9HmV58?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "chosen-one": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/letterman.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@alef_visuals?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Alef Morais</a> / <a href='https://unsplash.com/photos/man-wearing-a-chicken-mask-and-jacket-u5-z67K_Zw8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "dumb-jock": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/button-down.jpg",
+          "credit": "Foto: <a href='https://unsplash.com/@sarah_noltner?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Sarah Noltner</a> / <a href='https://unsplash.com/photos/man-wearing-eyeglasses-while-leaning-on-wall-pL5ZzPp1zqg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText' target='_blank'>Unsplash</a>",
+          "scores": { "nerd": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Mis on su lemmik žanr?",
+      "options": [
+        {
+          "text": "Romcom",
+          "scores": { "main-character": 1 }
+        },
+        {
+          "text": "Komöödia",
+          "scores": { "funny-sidekick": 1 }
+        },
+        {
+          "text": "Kättemaks",
+          "scores": { "final-girl": 1 }
+        },
+        {
+          "text": "Superkangelased",
+          "scores": { "chosen-one": 1 }
+        },
+        {
+          "text": "Multikad",
+          "scores": { "dumb-jock": 1 }
+        },
+        {
+          "text": "Sci-fi",
+          "scores": { "nerd": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Mis on/oli su lemmik õppeaine?",
+      "options": [
+        {
+          "text": "Kunst",
+          "scores": { "main-character": 1 }
+        },
+        {
+          "text": "Draama",
+          "scores": { "funny-sidekick": 1 }
+        },
+        {
+          "text": "Psühholoogia",
+          "scores": { "final-girl": 1 }
+        },
+        {
+          "text": "Kool?",
+          "scores": { "chosen-one": 1 }
+        },
+        {
+          "text": "Keka",
+          "scores": { "dumb-jock": 1 }
+        },
+        {
+          "text": "Kõik reaalained",
+          "scores": { "nerd": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Kas pretty privilege on päris?",
+      "options": [
+        {
+          "text": "Haha eiiiii",
+          "scores": { "main-character": 1 }
+        },
+        {
+          "text": "JA",
+          "scores": { "funny-sidekick": 1 }
+        },
+        {
+          "text": "Minu puhul ja",
+          "scores": { "final-girl": 1 }
+        },
+        {
+          "text": "Mul pole aega selliste asjade peale mõelda",
+          "scores": { "chosen-one": 1 }
+        },
+        {
+          "text": "Mis asi?",
+          "scores": { "dumb-jock": 1 }
+        },
+        {
+          "text": "Jah.",
+          "scores": { "nerd": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Su parim omadus on:",
+      "options": [
+        {
+          "text": "Kõik",
+          "scores": { "main-character": 1 }
+        },
+        {
+          "text": "Mu huumor",
+          "scores": { "funny-sidekick": 1 }
+        },
+        {
+          "text": "Mu võitlusoskused",
+          "scores": { "final-girl": 1 }
+        },
+        {
+          "text": "Mu plot armour",
+          "scores": { "chosen-one": 1 }
+        },
+        {
+          "text": "Mu musklid",
+          "scores": { "dumb-jock": 1 }
+        },
+        {
+          "text": "Mu intelligentsus",
+          "scores": { "nerd": 1 }
+        }
+      ]
+    }
+  ]
+}
