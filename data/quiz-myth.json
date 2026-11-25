@@ -1,0 +1,286 @@
+{
+  "title": "Milline mütoloogiline olend sa oled?",
+  "description": "Vasta küsimustele ja ma ütlen, milline mütoloogiline olend sa oled!",
+  "results": {
+    "cyclops": {
+      "title": "Sa oled Kükloop",
+      "description": "Sa oled iseseisev ja tugev, keegi ei taha su mustas nimekirjas olla. Oled lõpuni lojaalne ja pühendud oma suhetele. Sul on peidetud õrnem pool, mida sa kardad näidata.",
+      "image": "images/cyclops.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:7th_voyage_of_Sinbad_-_Cyclops.png' target='_blank'>Columbia Pictures</a>, Public domain, via Wikimedia Commons"
+    },
+    "satyr": {
+      "title": "Sa oled Satüür",
+      "description": "Sa oled uudishimulik ja ohjeldamatu ning tegutsed tihti enne, kui mõtled. Oled huumorikas ja alati valmis pidutsema. Ükski idee ei ole sinu jaoks liiga hullumeelne.",
+      "image": "images/satyr.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Praetorius(1668)-p0000-21Waldm%C3%A4nner-Satyren.jpg' target='_blank'>Thomas Cross</a>, Public domain, via Wikimedia Commons"
+    },
+    "centaur": {
+      "title": "Sa oled Kentaur",
+      "description": "Sa oled tundlik ja uhke, väiksemgi solvang tuleb kohe parandada. Vabadus on sulle väga oluline. Sa oled endas kindel ning sul on tugev tahtejõud.",
+      "image": "images/centaur.jpeg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Centaur_mosaic_-_Google_Art_Project_retouched.jpeg' target='_blank'>Altes Museum</a>, Public domain, via Wikimedia Commons"
+    },
+    "pegasus": {
+      "title": "Sa oled Pegasus",
+      "description": "Sa oled oled majesteetiline ja intelligentne. Oled arglik ning sinuga sõbrunemine võtab aega. Sa oled väga kangekaelne ning ei allu kellelegi.",
+      "image": "images/pegasus.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Pegase_(Pegasus)_-_Rosa_Bonheur.jpg' target='_blank'>Rosa Bonheur</a>, Public domain, via Wikimedia Commons"
+    },
+    "griffin": {
+      "title": "Sa oled Greif",
+      "description": "Sa oled auväärne ja vapper. Oled oma arvamustes ja väärtustes vankumatu. Sa oled kaitsev ning astud vastu igale ohule, kui su sõpru ähvardatakse.",
+      "image": "images/griffin.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Griffioen.jpg' target='_blank'>Matthius Merian (engraver), Josh at Dutch Wikipedia (scan)</a>, Public domain, via Wikimedia Commons"
+    },
+    "siren": {
+      "title": "Sa oled Sireen",
+      "description": "Sa oled mänguline ja haarad kõik endaga kaasa. Oled kaval ja tead, kuidas saada, mida tahad. Sa oskad inimestele näidata endast külge, mis neile kõige meeldivam on.",
+      "image": "images/siren.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Syreny_(%22Sirens%22)_-_Wilhelm_Kotarbi%C5%84ski.jpg' target='_blank'>Wilhelm Kotarbiński</a>, Public domain, via Wikimedia Commons"
+    },
+    "hydra": {
+      "title": "Sa oled Hüdra",
+      "description": "Sa oled väga järjekindel ja ei anna kunagi alla. Oled võimas ja sind on raske haavata. Sa oled peatumatu jõud ning keegi ei soovi sulle vastu astuda. ",
+      "image": "images/hydra.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Hydra_from_ercules_in_gevecht_met_de_hydra_van_Lerna.jpg' target='_blank'>See page for author</a>, Public domain, via Wikimedia Commons"
+    },
+    "minotaur": {
+      "title": "Sa oled Minotaurus",
+      "description": "Sa oled otsekohene ja asjalik. Oled väga iseseisev ning hindad au ja lojaalsust. Kui tahad, oled sa emotsionaalselt intelligentne, lahke ja empaatiline.",
+      "image": "images/minotaur.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:George_Frederic_Watts_-_The_Minotaur_-_Google_Art_Project.jpg' target='_blank'>George Frederic Watts</a>, Public domain, via Wikimedia Commons"
+    },
+    "nymph": {
+      "title": "Sa oled Nümf",
+      "description": "Sa kohtled kõike ja kõiki lugupidamise ja austusega. Oled looduslaps ja ei tunne ennast kusagil õnnelikumalt kui metsas, mägedes või vee ääres. Sa usud, et asjad juhtuvad põhjusega ja tervitad uut. ",
+      "image": "images/nymph.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Telemachus_and_the_Nymphs_of_Calypso_MET_DP169393.jpg' target='_blank'>Angelica Kauffmann</a>, CC0, via Wikimedia Commons"
+    },
+    "sphinx": {
+      "title": "Sa oled Sfinks",
+      "description": "Sa armastad teadmisi koguda ja oled alati valmis filosofeerima. Oled võõrastega ettevaatlik ning sõbruned tavaliselt vaid enda mõttekaaslastega. Sulle meeldib teisi tögada ja segadusse ajada.",
+      "image": "images/sphinx.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Elihu_Vedder_-_The_Sphinx_of_the_Seashore_-_1879.jpg' target='_blank'>Elihu Vedder</a>, Public domain, via Wikimedia Commons"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Vali oma lemmik unejutt",
+      "options": [
+        {
+          "text": "Odüsseia",
+          "scores": { "cyclops": 1 }
+        },
+        {
+          "text": "Hümn Aphroditele",
+          "scores": { "satyr": 1 }
+        },
+        {
+          "text": "Ilias",
+          "scores": { "centaur": 1 }
+        },
+        {
+          "text": "Phaidros",
+          "scores": { "pegasus": 1 }
+        },
+        {
+          "text": "Kinnineeditud Prometheus",
+          "scores": { "griffin": 1 }
+        },
+        {
+          "text": "Argonautika",
+          "scores": { "siren": 1 }
+        },
+        {
+          "text": "Trahhislannad",
+          "scores": { "hydra": 1 }
+        },
+        {
+          "text": "Apolloniose elu",
+          "scores": { "minotaur": 1 }
+        },
+        {
+          "text": "Jumalate põlvnemine",
+          "scores": { "nymph": 1 }
+        },
+        {
+          "text": "Kuningas Oidipus",
+          "scores": { "sphinx": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Vali kangelane, kes ei vääri austajaid",
+      "options": [
+        {
+          "text": "Odüsseus",
+          "scores": { "cyclops": 1, "siren": 1 }
+        },
+        {
+          "text": "Theseus",
+          "scores": { "centaur": 1, "minotaur": 1 }
+        },
+        {
+          "text": "Herakles",
+          "scores": { "centaur": 1, "hydra": 1 }
+        },
+        {
+          "text": "Atalanta",
+          "scores": { "centaur": 1 }
+        },
+        {
+          "text": "Bellerophontes",
+          "scores": { "pegasus": 1 }
+        },
+        {
+          "text": "Orpheus",
+          "scores": { "siren": 1 }
+        },
+        {
+          "text": "Oidipus",
+          "scores": { "sphinx": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Vali kreeka jumal, kellele sa kõige rohkem ohverdusi teed",
+      "options": [
+        {
+          "text": "Poseidon",
+          "scores": { "cyclops": 1, "pegasus": 1, "nymph": 1 }
+        },
+        {
+          "text": "Pan",
+          "scores": { "satyr": 1, "centaur": 1 }
+        },
+        {
+          "text": "Dionysus",
+          "scores": { "satyr": 1, "centaur": 1, "nymph": 1, "sphinx": 1 }
+        },
+        {
+          "text": "Zeus",
+          "scores": { "pegasus": 1 }
+        },
+        {
+          "text": "Apollo",
+          "scores": { "griffin": 1 }
+        },
+        {
+          "text": "Persephone",
+          "scores": { "siren": 1 }
+        },
+        {
+          "text": "Hera",
+          "scores": { "hydra": 1, "sphinx": 1 }
+        },
+        {
+          "text": "Demeter",
+          "scores": { "siren": 1, "nymph": 1 }
+        },
+        {
+          "text": "Ares",
+          "scores": { "sphinx": 1 }
+        },
+        {
+          "text": "Hades",
+          "scores": { "sphinx": 1 }
+        },
+        {
+          "text": "Artemis",
+          "scores": { "nymph": 1 }
+        },
+        {
+          "text": "Hermes",
+          "scores": { "nymph": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Vali jumal, kelle templisse sa kunagi ei lähe",
+      "options": [
+        {
+          "text": "Apollo",
+          "scores": { "nymph": 1, "satyr": 1 }
+        },
+        {
+          "text": "Zeus",
+          "scores": { "cyclops": 1, "centaur": 1 }
+        },
+        {
+          "text": "Athena",
+          "scores": { "satyr": 1, "pegasus": 1, "hydra": 1 }
+        },
+        {
+          "text": "Hera",
+          "scores": { "centaur": 1 }
+        },
+        {
+          "text": "Aphrodite",
+          "scores": { "siren": 1, "minotaur": 1 }
+        },
+        {
+          "text": "Pan",
+          "scores": { "nymph": 1 }
+        },
+        {
+          "text": "Poseidon",
+          "scores": { "minotaur": 1 }
+        },
+        {
+          "text": "Demeter",
+          "scores": { "siren": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Vali keda või mida sa kõige rohkem kardad",
+      "options": [
+        {
+          "text": "Mu isa",
+          "scores": { "cyclops": 1 }
+        },
+        {
+          "text": "Vett",
+          "scores": { "satyr": 1 }
+        },
+        {
+          "text": "Veini",
+          "scores": { "centaur": 1 }
+        },
+        {
+          "text": "Kärbseid",
+          "scores": { "pegasus": 1 }
+        },
+        {
+          "text": "Hobuseid",
+          "scores": { "griffin": 1 }
+        },
+        {
+          "text": "Surma",
+          "scores": { "siren": 1 }
+        },
+        {
+          "text": "Tuld",
+          "scores": { "hydra": 1 }
+        },
+        {
+          "text": "Üksindust",
+          "scores": { "minotaur": 1 }
+        },
+        {
+          "text": "Mehi",
+          "scores": { "nymph": 1 }
+        },
+        {
+          "text": "Kaotust",
+          "scores": { "sphinx": 1 }
+        }
+      ]
+    }
+  ]
+}
