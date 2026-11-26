@@ -58,7 +58,7 @@
 /* Tutvustav tekst */
 
 .description {
-    widtg: 90%;
+    width: 90%;
     margin: 55px auto 30px;
     padding: 35px;
     background-color: #F7EA78;
@@ -112,4 +112,18 @@
     object-position: center 30%;
     margin: 40px auto;
     border-radius: 12px;
+}
+.logo-circle {
+  text-decoration: none;
+  width: 100px;
+  height: 100px;
+  background-color: #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 50%;
+  border: 5px solid #EED122;
+  overflow: hidden;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
 }
