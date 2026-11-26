@@ -11,10 +11,17 @@
 .team {
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    align-items: center;
     gap: 30px;
     padding: 35px clamp(15px, 5vw, 70px);
     text-align: center;
+}
+
+.lennart {
+    grid-column: 2;
+    grid-row: 3;
 }
 
 .team h2 {
