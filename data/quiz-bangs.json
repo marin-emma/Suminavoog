@@ -1,0 +1,184 @@
+{
+  "title": "Milline tukk sa oled?",
+  "description": "Vasta väidetele ja ma ütlen, milline tukk sa oled!",
+  "results": {
+    "pin-up": {
+      "title": "Sa oled pin-up tukk",
+      "description": "",
+      "image": "images/pin-up.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Paloma_faith_cropped.jpg' target='_blank'>Paloma_faith.jpg: https://www.flickr.com/people/hellosarah/ tuletis: Lucian C.</a>, <a href='https://creativecommons.org/licenses/by/2.0' target='_blank'>CC BY 2.0</a>, Wikimedia Commonsi kaudu"
+    },
+    "micro": {
+      "title": "Sa oled mikrotukk",
+      "description": "",
+      "image": "images/micro.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Audrey_Hepburn_Roman_Holiday_cropped.jpg' target='_blank'>Treileri kuvatõmmis</a>, avalik omand, Wikimedia Commonsi kaudu"
+    },
+    "wispy": {
+      "title": "Sa oled hõretukk",
+      "description": "",
+      "image": "images/wispy.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:20240314_Lisa_Manoban_14.jpg' target='_blank'>K-POPIT 케이팝잇</a>, <a href='https://creativecommons.org/licenses/by/3.0' target='_blank'>CC BY 3.0</a>, Wikimedia Commonsi kaudu"
+    },
+    "curtain": {
+      "title": "Sa oled kardintukk",
+      "description": "",
+      "image": "images/curtain.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:2021_Shaky_Knees_-_Suki_Waterhouse_(11).jpg' target='_blank'>Thomson200</a>, CC0, Wikimedia Commonsi kaudu"
+    },
+    "emo": {
+      "title": "Sa oled emotukk",
+      "description": "",
+      "image": "images/emo.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Dan_%26_Phil_(14539396735).jpg' target='_blank'>Gage Skidmore, Peoria, AZ, USA</a>, <a href='https://creativecommons.org/licenses/by-sa/2.0' target='_blank'>CC BY-SA 2.0</a>, Wikimedia Commonsi kaudu"
+    },
+    "no-bang": {
+      "title": "Sa polegi tukk",
+      "description": "",
+      "image": "images/bald.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:MJK31878_Stanley_Tucci_(Final_Portrait,_Berlinale_2017).jpg' target='_blank'>Martin Kraft</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0' target='_blank'>CC BY-SA 4.0</a>, Wikimedia Commonsi kaudu"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Sulle meeldib vihm",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "micro": 1, "curtain": 1, "emo": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "no-bang": 1, "pin-up": 1, "wispy": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Sulle meeldivad boy-bändid",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "emo": 1, "curtain": 1, "wispy": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "pin-up": 1, "no-bang": 1, "micro": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Sul on traditsionaalsed väärtused",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "pin-up": 10, "wispy": 1, "no-bang": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "emo": 1, "curtain": 1, "micro": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Sulle meeldib päike",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "curtain": 1, "wispy": 1, "pin-up": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "emo": 1, "micro": 1, "no-bang": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Sulle meeldib lugeda",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "curtain": 1, "wispy": 1, "micro": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "no-bang": 1, "pin-up": 1, "emo": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Sulle meeldib tuul",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "no-bang": 1, "pin-up": 1, "emo": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "micro": 1, "curtain": 1, "wispy": 1 }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Sul on alati külm",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "micro": 1, "no-bang": 1, "pin-up": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "emo": 1, "curtain": 1, "wispy": 1 }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Sulle meeldib küpsetada",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "pin-up": 1, "curtain": 1, "wispy": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "micro": 1, "no-bang": 1, "emo": 1 }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Sa vaatad k-dramasid",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "wispy": 1, "curtain": 1, "no-bang": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "emo": 1, "pin-up": 1, "micro": 1 }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Phan on päris",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "emo": 5, "curtain": 1, "wispy": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "no-bang": 1, "pin-up": 1, "micro": 1 }
+        }
+      ]
+    }
+  ]
+}
