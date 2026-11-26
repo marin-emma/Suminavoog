@@ -43,15 +43,17 @@ function renderQuizCards(quizzes) {
 
   quizzes.forEach(quiz => {
     const creditLine = quiz.credit
-      ? `<small style="color: #666; font-style: italic; display: block; margin-top: 4px;">${quiz.credit}</small>`
+      ? `<span class="img-credit card-credit">${quiz.credit}</span>`
       : '';
 
     html += `
       <a href="quiz.html?test=${quiz.id}" class="quiz-preview-card">
-        <img src="${quiz.image}" alt="${quiz.title}">
-        <div class="card-text">
-          <h3>${quiz.title}</h3>
+        <div class="card-img-wrap">
+          <img src="${quiz.image}" alt="${quiz.title}">
           ${creditLine}
+        </div>
+        <div class="card-text">
+          <h3>${quiz.title}</h3>  
         </div>
       </a>
     `;
