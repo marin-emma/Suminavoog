@@ -4,30 +4,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SuMiNaVoOg - Küsimustik</title>
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/metropolis" type="text/css"/>
     <link rel="stylesheet" href="css/quiz.css">
+    <link rel="stylesheet" href="css/global.css">
 </head>
 <body>
 
     <header class="header">
         <h1>Suminavoog</h1>
-    </header>
+        <div class="logo-circle"><img src="images/logo.png" alt="Logo"></div>
+    </header> 
 
     <header class="quiz-header">
-        <h2>Küsimustiku nimi</h2>
-        <p>Parim küsimustik üldse</p>
-    </header>
+            <h2 id="banner-title"></h2>
+            <p id="banner-desc"></p>
+        </header>
 
-    <main class="container">
-
+    <main class="container">   
+        
         <div class="content-layout">
             
-            <div class="quiz-section">
-                
-                <div class="quiz-container">
+            <section class="quiz-section">
+                <div id="quiz-container">
                     <p>Laadin küsimusi...</p>
                 </div>
 
-            </div>
+                <div id="result-container" class="result-card hidden">
+                    <h2 id="result-title">Vastus</h2>
+                    <div class="result-image-box">
+                        <img id="result-image" src="" alt="Tulemuse pilt">
+                    </div>
+                    <p id="result-description"></p>
+                </div>
+            </section>
 
             <aside class="sidebar">
                 <div class="ad-box">
@@ -43,7 +52,8 @@
         <div class="footer-content">
             <a href="about.html">Meist</a>
         </div>
-    </footer>
+    </footer> 
 
+    <script src="js/app.js"></script>
 </body>
 </html>
