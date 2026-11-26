@@ -6,15 +6,6 @@ body {
     color: #333;
 }
 
-header {
-    background-color: #333;
-    color: rgb(247, 255, 97);
-    padding: 1rem 2rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
 /*
 Küsimustik
 */
@@ -72,7 +63,7 @@ Lehe sisu
 }
 
 .reklaam {
-  background-color: #d1e7dd;
+  background-color: #F7EA78;
   height: 250px;
   display: flex;
   align-items: center;
