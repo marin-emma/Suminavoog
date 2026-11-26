@@ -1,15 +1,6 @@
 [
   {
     "id": "",                          
-<<<<<<< HEAD
-    "title": "Vasta küsimustele ja saad teada, kui fit sa oled.",        
-    "image": "images/grupiselfi.png"          
-  },
-{
-    "id": "",                   
-    "title": "Milline pasta on sinu arust kõige maitsvam?",
-    "image": "images/grupiselfi.png"
-=======
     "title": "",        
     "image": "images/",
     "credit": "credit"         
@@ -19,6 +10,5 @@
     "title": "",
     "image": "images/",
     "credit": "credit"
->>>>>>> 51249c802c806aaf0f4df2411094e4f6676bb604
   }
 ]
