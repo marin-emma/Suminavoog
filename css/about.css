@@ -22,9 +22,11 @@
 .lennart {
     grid-column: 2;
     grid-row: 3;
+    margin-top: 20px;
 }
 
 .team h2 {
+    justify-self: start;
     grid-column: 1 / -1;
     text-align: left;
     margin-bottom: 10px;
@@ -47,24 +49,35 @@
 }
 
 .member p {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin: 0;
     text-align: center;
 }
 
 /* Tutvustav tekst */
 
 .description {
+    widtg: 90%;
+    margin: 55px auto 30px;
+    padding: 35px;
+    background-color: #F7EA78;
+    border-radius: 15px;
+    font-size: 2rem;
+    font-weight: normal;
+    margin-top: -5px;
     width: 90%;
     margin: 55px auto 30px;
 }
 
 .description h2 {
-    font-size: 30px;
+    font-size: 2rem;
     margin-bottom: 15px;
 }
 
 .description p {
-    font-size: clamp(18px, 2.5vw, 30px);
-    line-height: 1.4;
+    font-size: 1.1rem;
+    line-height: 1.6;
 }
 
 /* Väiksemad ekraanid */
@@ -89,4 +102,14 @@
     object-fit: cover;
     object-position: center 30%;
     border-radius: 50%;
+}
+.team-photo {
+    display: block;
+    width: 75%;
+    max-width: 850px;
+    height: 350px;
+    object-fit: cover;
+    object-position: center 30%;
+    margin: 40px auto;
+    border-radius: 12px;
 }
