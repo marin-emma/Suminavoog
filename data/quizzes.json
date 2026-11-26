@@ -1,54 +1,54 @@
 [
   {
-    "id": "quiz-myth",                          
-    "title": "",        
-    "image": "images/",
-    "credit": "credit"         
+    "id": "myth",                          
+    "title": "Mütoloogilised olendid",        
+    "image": "images/main-character.jpg",
+    "credit": "veebileht.com"         
   },
   {
-    "id": "quiz-crocs",                   
+    "id": "crocs",                   
     "title": "",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-tropes",                   
+    "id": "tropes",                   
     "title": "",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-mullet",                   
+    "id": "mullet",                   
     "title": "",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-bangs",                   
+    "id": "bangs",                   
     "title": "",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-moustache",                   
+    "id": "moustache",                   
     "title": "",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-breakup",                   
+    "id": "breakup",                   
     "title": "",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-caterpillar",                   
+    "id": "aterpillar",                   
     "title": "",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-loser",                   
+    "id": "loser",                   
     "title": "",
     "image": "images/",
     "credit": "credit"
