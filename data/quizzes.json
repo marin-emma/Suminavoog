@@ -1,72 +1,72 @@
 [
   {
     "id": "myth",                          
-    "title": "Mütoloogilised olendid",        
+    "title": "Milline mütoloogiline olend sa oled?",        
     "image": "images/main-character.jpg",
     "credit": "veebileht.com"         
   },
   {
     "id": "crocs",                   
-    "title": "",
-    "image": "images/",
-    "credit": "credit"
+    "title": "Milline crocs sa oled?",
+    "image": "",
+    "credit": ""
   },
   {
     "id": "tropes",                   
-    "title": "",
-    "image": "images/",
-    "credit": "credit"
+    "title": "Milline filmitegelase arhetüüp sa oled?",
+    "image": "",
+    "credit": ""
   },
   {
     "id": "mullet",                   
-    "title": "",
-    "image": "images/",
-    "credit": "credit"
+    "title": "Milline mullet sa oled?",
+    "image": "",
+    "credit": ""
   },
   {
     "id": "bangs",                   
-    "title": "",
-    "image": "images/",
-    "credit": "credit"
+    "title": "Milline tukk sa oled?",
+    "image": "",
+    "credit": ""
   },
   {
     "id": "moustache",                   
-    "title": "",
-    "image": "images/",
-    "credit": "credit"
+    "title": "Milline vunts sa oled?",
+    "image": "",
+    "credit": ""
   },
   {
     "id": "breakup",                   
-    "title": "",
-    "image": "images/",
-    "credit": "credit"
+    "title": "Kas sul on õigus või mitte?",
+    "image": "",
+    "credit": ""
   },
   {
-    "id": "aterpillar",                   
-    "title": "",
-    "image": "images/",
-    "credit": "credit"
+    "id": "caterpillar",                   
+    "title": "Milline röövik sa oled?",
+    "image": "",
+    "credit": ""
   },
   {
     "id": "loser",                   
+    "title": "Kas sa oled luuser või mitte?",
+    "image": "",
+    "credit": ""
+  },
+  {
+    "id": "",                   
     "title": "",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-",                   
+    "id": "",                   
     "title": "",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-",                   
-    "title": "",
-    "image": "images/",
-    "credit": "credit"
-  },
-  {
-    "id": "quiz-",                   
+    "id": "",                   
     "title": "",
     "image": "images/",
     "credit": "credit"
