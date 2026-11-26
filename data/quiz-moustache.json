@@ -1,0 +1,184 @@
+{
+  "title": "Milline vunts sa oled?",
+  "description": "Vasta väidetele ja ma ütlen, milline vunts sa oled!",
+  "results": {
+    "chevron": {
+      "title": "Sa oled Mendivunts",
+      "description": "",
+      "image": "images/chevron.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Tom_selleck_(1988).png' target='_blank'>foto: Alan Light</a>, <a href='https://creativecommons.org/licenses/by/2.0' target='_blank'>CC BY 2.0</a>, Wikimedia Commonsi kaudu"
+    },
+    "walrus": {
+      "title": "Sa oled Morsavunts",
+      "description": "",
+      "image": "images/walrus.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Mark_Twain_1909.jpg' target='_blank'>Teadmata (Bain News Service, kirjastaja)</a>, avalik omand, Wikimedia Commonsi kaudu"
+    },
+    "toothbrush": {
+      "title": "Sa oled Hambaharjavunts",
+      "description": "",
+      "image": "images/toothbrush.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Charlie_Chaplin.jpg' target='_blank'>P.D Jankens</a>, avalik omand, Wikimedia Commonsi kaudu"
+    },
+    "pencil": {
+      "title": "Sa oled Pliiatsvunts",
+      "description": "",
+      "image": "images/pencil.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Clark_Gable_as_Rhett_Butler_in_Gone_With_the_Wind_trailer_cropped.jpg' target='_blank'>Treileri kuvatõmmis. Litsentsiinfo: https://web.archive.org/web/20080321033709/http://www.sabucat.com/?pg=copyright ja http://www.creativeclearance.com/guidelines.html#D2</a>, avalik omand, Wikimedia Commonsi kaudu"
+    },
+    "horseshoe": {
+      "title": "Sa oled Hobuserauavunts",
+      "description": "",
+      "image": "images/horseshoe.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Hulk_Hogan_(cropped).jpg' target='_blank'>GabboT</a>, <a href='https://creativecommons.org/licenses/by-sa/2.0' target='_blank'>CC BY-SA 2.0</a>, Wikimedia Commonsi kaudu"
+    },
+    "milk": {
+      "title": "Sa oled Piimavunts",
+      "description": "",
+      "image": "images/milk.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Michael_Cera_2012_(Cropped).jpg' target='_blank'>Eva Rinaldi</a>, <a href='https://creativecommons.org/licenses/by-sa/2.0' target='_blank'>CC BY-SA 2.0</a>, Wikimedia Commonsi kaudu"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Sulle meeldib puid lõhkuda",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "chevron": 1, "walrus": 1, "horseshoe": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "toothbrush": 1, "pencil": 1, "milk": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Sa oskad lõket teha",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "chevron": 1, "walrus": 1, "horseshoe": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "toothbrush": 1, "pencil": 1, "milk": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Sulle meeldib Twilight",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "chevron": 1, "milk": 1, "pencil": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "toothbrush": 1, "walrus": 1, "horseshoe": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Sulle meeldib jäätis",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "milk": 1, "chevron": 1, "walrus": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "toothbrush": 1, "horseshoe": 1, "pencil": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Sulle meeldib geomeetria",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "milk": 1, "chevron": 1, "horseshoe": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "walrus": 1, "toothbrush": 1, "pencil": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Thought daughter?",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "chevron": 1, "walrus": 1, "pencil": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "toothbrush": 1, "milk": 1, "horseshoe": 1 }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Sulle meeldivad kiiged",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "milk": 1, "chevron": 1, "walrus": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "toothbrush": 1, "horseshoe": 1, "pencil": 1 }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Sa hääletasid EKRE poolt",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "milk": 1, "toothbrush": 1, "horseshoe": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "walrus": 1, "pencil": 1, "chevron": 1, "milk": 1 }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Sul on Tumblr",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "walrus": 1, "chevron": 1, "pencil": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "milk": 1, "toothbrush": 1, "horseshoe": 1 }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Sa kannad teksasid",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "walrus": 1, "chevron": 1, "milk": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "toothbrush": 1, "horseshoe": 1, "pencil": 1 }
+        }
+      ]
+    }
+  ]
+}

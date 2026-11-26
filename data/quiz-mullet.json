@@ -1,0 +1,190 @@
+{
+  "title": "Milline mullet sa oled?",
+  "description": "Vasta väidetele ja ma ütlen, milline mullet sa oled!",
+  "results": {
+    "skullet": {
+      "title": "Sa oled Skullet",
+      "description": "",
+      "image": "images/skullet.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Skullet.jpg' target='_blank'>John Cosgrove</a>, avalik omand, Wikimedia Commonsi kaudu"
+    },
+    "mohawk": {
+      "title": "Sa oled Mohawk-mullet",
+      "description": "",
+      "image": "images/mohawk.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:JaredLetoTrentFM.JPG' target='_blank'>w:User:Jimack32</a>, avalik omand, Wikimedia Commonsi kaudu"
+    },
+    "flat-top": {
+      "title": "Sa oled Kandiline mullet",
+      "description": "",
+      "image": "images/flat-top.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:The_Blade_Runners_tag_team.jpg' target='_blank'>The Wrestler magazine, 1986-05</a>, avalik omand, Wikimedia Commonsi kaudu"
+    },
+    "caesar": {
+      "title": "Sa oled Lühikese tukaga mullet",
+      "description": "",
+      "image": "images/caesar.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Yo-Landi_of_Die_Antwoord_during_an_interview_at_the_Coachella_Oasis_2010.jpg' target='_blank'>Philip Nelson</a>, <a href='https://creativecommons.org/licenses/by-sa/2.0' target='_blank'>CC BY-SA 2.0</a>, Wikimedia Commonsi kaudu"
+    },
+    "shaggy": {
+      "title": "Sa oled Sasine mullet",
+      "description": "",
+      "image": "images/shaggy.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Joan_Jett_PETA_4_Shankbone_2010_NYC.jpg' target='_blank'>David Shankbone</a>, <a href='https://creativecommons.org/licenses/by/3.0' target='_blank'>CC BY 3.0</a>, Wikimedia Commonsi kaudu"
+    },
+    "classic": {
+      "title": "Sa oled Klassikaline mullet",
+      "description": "",
+      "image": "images/classic.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Michael_Bolton_in_1997.jpg' target='_blank'>John Mathew Smith &amp; www.celebrity-photos.com</a>, <a href='https://creativecommons.org/licenses/by-sa/2.0' target='_blank'>CC BY-SA 2.0</a>, Wikimedia Commonsi kaudu"
+    },
+    "not-cool": {
+      "title": "Sa pole mulleti jaoks piisavalt lahe",
+      "description": "",
+      "image": "images/bald.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:MJK31878_Stanley_Tucci_(Final_Portrait,_Berlinale_2017).jpg' target='_blank'>Martin Kraft</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0' target='_blank'>CC BY-SA 4.0</a>, Wikimedia Commonsi kaudu"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Mr Worldwide?",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "skullet": 1, "mohawk": 1, "shaggy": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "flat-top": 1, "classic": 1, "caesar": 1, "not-cool": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Sa mängid kitarri",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "mohawk": 1, "flat-top": 1, "caesar": 1, "shaggy": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "skullet": 1, "not-cool": 1, "classic": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "\"Kindness is the new punkrock\"",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "caesar": 1, "shaggy": 1, "mohawk": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "skullet": 1, "not-cool": 1, "classic": 1, "flat-top": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Sul on värvilised juuksed",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "mohawk": 1, "skullet": 1, "shaggy": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "flat-top": 1, "not-cool": 1, "caesar": 1, "classic": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Sul on perm",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "shaggy": 1, "caesar": 1, "classic": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "skullet": 1, "flat-top": 1, "mohawk": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Sulle meeldib kunst",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "mohawk": 1, "caesar": 1, "shaggy": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "not-cool": 1, "skullet": 1, "flat-top": 1, "classic": 1 }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Sa pesed oma nägu",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "caesar": 1, "shaggy": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "skullet": 1, "not-cool": 1, "flat-top": 1, "mohawk": 1, "classic": 1 }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Sul on Converse’id",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "mohawk": 1, "caesar": 1, "shaggy": 1, "classic": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "not-cool": 1, "skullet": 1, "flat-top": 1 }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Sa käid jõuksis",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "caesar": 1, "shaggy": 1, "classic": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "not-cool": 1, "skullet": 1, "flat-top": 1, "mohawk": 1 }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Sa mängid DnD’d",
+      "options": [
+        {
+          "text": "Jah",
+          "scores": { "skullet": 1, "mohawk": 1, "shaggy": 1 }
+        },
+        {
+          "text": "Ei",
+          "scores": { "not-cool": 1, "caesar": 1, "classic": 1, "flat-top": 1 }
+        }
+      ]
+    }
+  ]
+}
