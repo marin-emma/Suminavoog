@@ -1,0 +1,406 @@
+{
+  "title": "Mis kitarri akord sa oled?",
+  "description": "Vasta küsimustele ja saad teada, mis kitarri akord sa oled.",
+  "results": {
+    "c-duur": {
+      "title": "Sa oled C-duur (see kõige esimene akord, mida kõik õpivad)",
+      "description": "Sa oled usaldusväärne, soe ja kõigi lemmik. Sinuga on alati lihtne suhelda ja sa ei tekita kunagi liigset draamat. Sa oled seltskonnainimene, kes hoiab kõiki koos, ja kuigi mõni võib arvata, et oled veits basic, teavad kõik tegelt, et ilma sinuta ei sünniks ühtegi head lugu.",
+      "image": "",
+      "credit": ""
+    },
+    "f-duur": {
+      "title": "Sa oled F-duur (akord, mis paneb sõrmed valutama, sest pead katma mitut keelt korraga)",
+      "description": "Sa oled parajalt kangekaelne ja sinuga läheb aega, enne kui keegi sind päriselt mõistma hakkab. Alguses võid tunduda veits hirmutav, aga kui keegi on nõus sinu tundmiseks natuke vaeva nägema, tuleb ta avastusele, et oled tegelt väärtuslik ja sügav. Sa ei lepi kunagi poolikute lahendustega.",
+      "image": "",
+      "credit": ""
+    },
+    "a-moll": {
+      "title": "Sa oled A-moll (hästi emotsionaalne akord)",
+      "description": "Sinu hing on sügav, poeetiline ja natuke dramaatiline. Sa armastad hilisõhtuseid jalutuskäike ja vihmakrabinat. Sa tunned kõiki emotsioone 110% ja oled see sõber, kelle juurde tullakse siis, kui on vaja päriselt rääkida ja maailma asjade üle filosofeerida.",
+      "image": "",
+      "credit": ""
+    },
+    "e-duur": {
+      "title": "Sa oled E-duur (roki ja lõkkeõhtute vibe)",
+      "description": "Sa oled enesekindel, vali ja astud alati ruumi nii, et kõik märkavad. Sulle meeldib tähelepanu, hea energia ja hetked, kus saab täiest kõrist kaasa laulda. Sa ei karda riskida ega oma arvamust avaldada, ning sinu juuresolekul on alati tunne, et midagi suurt hakkab kohe juhtuma.",
+      "image": "",
+      "credit": ""
+    },
+    "g7": {
+      "title": "Sa oled G7 (natuke veider ja pingeline akord)",
+      "description": "Sa oled ettearvamatu, vaimukas ja tood igasse seltskonda mõnusa särtsu. Sulle ei meeldi paigal püsida ega reegleid järgida, sest oled alati see, kes keerab tavalise vestluse täiesti ootamatusse suunda. Vahel tekitad teistes kerget segadust, aga just sina teed elu põnevaks.",
+      "image": "",
+      "credit": ""
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Milline näeb su TikToki/Instagram Reelsi for you page välja?",
+      "options": [
+        {
+          "text": "Uutest kontsertitest, kus kogu rahvas laulab täiest kõrist kaasa.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "e-duur": 1
+          }
+        },
+        {
+          "text": "Rahulikud videod. ASMR, satisfying",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "a-moll": 1
+          }
+        },
+        {
+          "text": "Brainrot ja muu selline",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "g7": 1
+          }
+        },
+        {
+          "text": "Õppevideod, self-improvement",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "f-duur": 1
+          }
+        },
+        {
+          "text": "Natuke kõike. Lemmikloomad, kokkamine, hea tuju videod ja klipid.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "c-duur": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Oled peol ja keegi haarab nurgast akustilise kitarri. Mis on sinu esimene reaktsioon?",
+      "options": [
+        {
+          "text": "Lähme kohe ümber ja laulame kaasa.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "c-duur": 1
+          }
+        },
+        {
+          "text": "Palun ära hakka mingit suvalist asja mängima. Pange parem normaalne muusika käima.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "f-duur": 1
+          }
+        },
+        {
+          "text": "Haaran ise kitarri enda kätte ja tõmban kohe mingi hea loo käima.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "e-duur": 1
+          }
+        },
+        {
+          "text": "Jään vaikselt nurka kuulama ja loodan, et ta mängib midagi ilusat.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "a-moll": 1
+          }
+        },
+        {
+          "text": "Hakkan suvaliste asjadega rütmi kaasa lööma ja teen laulusõnad keset lugu täiesti ümber.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "g7": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Kuidas sa valid Spotify muusikat, kui lähed hommikul uksest välja?",
+      "options": [
+        {
+          "text": "Mul on kindel playlist, mida kuulan juba kauemat aega, sest see tekitab alati turvalise ja hea tunde.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "c-duur": 1
+          }
+        },
+        {
+          "text": "Panen käima midagi intensiivset, et kohe hommikul energia üles saada.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "e-duur": 1
+          }
+        },
+        {
+          "text": "Kuulan mingit niche artisti, kellel on Spotifys umbes 400 kuulajat.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "g7": 1
+          }
+        },
+        {
+          "text": "Valin lood täpselt selle järgi, mis ilm õues on ja milline on mu tuju.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "a-moll": 1
+          }
+        },
+        {
+          "text": "Kuulan ühte ja sama lugu korduse peal, kuni ma selle iga viimse kui hetke meelde jätan.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "f-duur": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Mida sina oma photo dumpi postitad?",
+      "options": [
+        {
+          "text": "Pildi oma lemmikkohvist, sõpradega naermisest ja päikesest.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "c-duur": 1
+          }
+        },
+        {
+          "text": "Udune öine pilt tühjast tänavast või vihmapiiskadest aknaklaasil koos sügava taustamuusikaga.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "a-moll": 1
+          }
+        },
+        {
+          "text": "Mirror pic pärast rasket trenni või pikka tööpäeva.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "f-duur": 1
+          }
+        },
+        {
+          "text": "Suvalise selfie kõige veidrama nurga alt koos mingi täiesti seosetu captioniga.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "g7": 1
+          }
+        },
+        {
+          "text": "Pildi lavalt, peolt või hetkest, kus ma olen täpselt tähelepanu keskpunktis.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "e-duur": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Milline on sinu roll grupi reisil või väljasõidul?",
+      "options": [
+        {
+          "text": "Mina olen see, kes broneerib majutuse, vaatab, et kõigil oleksid asjad kaasas ja tuju hea.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "c-duur": 1
+          }
+        },
+        {
+          "text": "Mina vastutan autokõlarite ja playlisti eest, et keegi autos magama ei jääks.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "e-duur": 1
+          }
+        },
+        {
+          "text": "Mina olen see, kes ütleb poole tee peal, et sõidame nüüd hoopis siia kohta, vaatame mis saab.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "g7": 1
+          }
+        },
+        {
+          "text": "Mina istun tagaistmel, vaatan aknast välja ja teen kõigist teistest videoid.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "a-moll": 1
+          }
+        },
+        {
+          "text": "Mina olen see, kes surub läbi kõige raskema matkaraja, sest me ei tulnud siia ju lihtsalt niisama istuma.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "f-duur": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Kuidas sa reageerid, kui keegi sinu lemmikbändi või -artisti kohta halvasti ütleb?",
+      "options": [
+        {
+          "text": "Naeratan ja ütlen, et igal ühel on oma maitse, peaasi et muusika inimestele rõõmu teeb.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "c-duur": 1
+          }
+        },
+        {
+          "text": "Saan südamepõhjani haavata, aga ei ütle midagi, lihtsalt kuulan seda artisti kodus veel rohkem.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "a-moll": 1
+          }
+        },
+        {
+          "text": "Hakkan kohe vaidlema ja tõestan talle kümne minutiga ära, miks see bänd on hea.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "e-duur": 1
+          }
+        },
+        {
+          "text": "Ütlen rahulikult, et see muusika polegi mõeldud kõigile arusaamiseks, see nõuab süvenemist.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "f-duur": 1
+          }
+        },
+        {
+          "text": "Nõustun temaga täielikult ja hakkan koos temaga oma lemmikartisti üle nalja viskama.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "g7": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Milline on sinu suhe pillidega või muusika tegemisega?",
+      "options": [
+        {
+          "text": "Oskan paari lihtsat asja ja mulle piisab sellest täiesti, et endal ja teistel tuju heaks teha.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "c-duur": 1
+          }
+        },
+        {
+          "text": "Harjutan kasvõi kolm tundi järjest ühte kohta, kuni see tuleb välja täiesti veatult.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "f-duur": 1
+          }
+        },
+        {
+          "text": "Ma ei oska nooti lugeda, aga kui pilli kätte võtan, teen sellest kohe mingit täiesti ootamatut häält.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "g7": 1
+          }
+        },
+        {
+          "text": "Kirjutan sahtlisse laulusõnu või luuletusi, mida ma ilmselt kunagi kellelegi ette ei loe.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "a-moll": 1
+          }
+        },
+        {
+          "text": "Kui ma juba midagi mängin või laulan, siis nii kõvasti, et naabrid ka kuulevad.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "e-duur": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Kuidas sa lahendad olukorra, kui sõprade vahel tekib tühjast kohast tüli?",
+      "options": [
+        {
+          "text": "Kuulan mõlemad pooled ära ja aitan neil rahulikult ära leppida, et kõigil oleks jälle hästi.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "c-duur": 1
+          }
+        },
+        {
+          "text": "Teen keset kõige pingelisemat hetke mingi täiesti kohatu nalja, mis paneb kõik naerma.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "g7": 1
+          }
+        },
+        {
+          "text": "Ütlen otse ja karmilt välja, mis ma asjast arvan, isegi kui see kellelegi sel hetkel ei meeldi.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "f-duur": 1
+          }
+        },
+        {
+          "text": "Võtan asjad enda kätte ja viin seltskonna kohe kuskile mujale, et kõik rahuneks.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "e-duur": 1
+          }
+        },
+        {
+          "text": "Tõmbun eemale, sest teiste inimeste draama väsitab täielikult ära.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "a-moll": 1
+          }
+        }
+      ]
+    }
+  ]
+}

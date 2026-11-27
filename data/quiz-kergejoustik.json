@@ -1,0 +1,406 @@
+{
+  "title": "Mis kergejõustiku ala sa oled?",
+  "description": "Vasta küsimustele ja saad teada, mis kergejõustiku ala sa oled.",
+  "results": {
+    "100m-sprint": {
+      "title": "Sa oled 100 meetri sprint",
+      "description": "Sinu elu on väga tegevusterikas. Sulle meeldib tähelepanu ja annad endast 110%, aga kiirete ajaperioodidena, sest pärast seda vajad sa mitu päeva taastumisaega ja jääkohvi. Sinu aesthetic on puhas adrenaliin ja viimase sekundi draama.",
+      "image": "images/sprint.jpg",
+      "credit": "https://www.pexels.com/photo/sprinters-training-on-the-running-track-21923388/"
+    },
+    "maraton": {
+      "title": "Sa oled maraton",
+      "description": "Sa oled see sõber, kes vastab sõnumitele mitu päeva hiljem, aga siis saadab pika ja läbimõeldud essee. Sa ei põle ereda leegiga läbi, vaid tiksud rahulikult ja järjepidevalt oma eesmärkide poole. Sinu vaimne vastupidavus hirmutab teisi, sa võid vabalt neli tundi järjest ühte asja teha ilma silma pilgutamata.",
+      "image": "images/maraton.jpg",
+      "credit": "https://www.pexels.com/photo/sydney-city-marathon-with-diverse-runners-28907576/"
+    },
+    "teivashupe": {
+      "title": "Sa oled teivashüpe",
+      "description": "Sa elad pidevalt piiri peal ja sinu elu on üks suur trust the process. Teised vaatavad kõrvalt ja mõtlevad, kuidas sa küll sellisest olukorrast väga hästi välja tuled, aga sina lihtsalt lendad üle ja maandud pehmelt. Sulle meeldib draama ja olukorrad, kus kõik tundub alguses täiesti võimatu, aga lõpuks sa teed selle ikkagi ära.",
+      "image": "images/teivas.jpg",
+      "credit": "https://www.pexels.com/photo/female-athletes-practicing-pole-vault-on-track-38484077/"
+    },
+    "kuulitõuge": {
+      "title": "Sa oled kuulitõuge",
+      "description": "Sa oled seltskonna vaieldamatu tugisammas, kes ei viitsi tühja asja ajada. Sa ei jookse millegi ega kellegi järel. Lihtsalt seisad kohal, kogud energiat ja lõpuks kui midagi ütled või teed, siis on sellel selline kaal, et kõik kuulavad tähelepanelikult. Sinu vibe on konkreetne ja bullshit free.",
+      "image": "images/kuulitouge.jpg",
+      "credit": "https://www.pexels.com/photo/athlete-during-shot-put-workout-12659341/"
+    },
+    "kumnevoistlus": {
+      "title": "Sa oled kümnevõistlus",
+      "description": "Sa oled ülemõtleja ja multitasker, kellel on korraga käsil viis hobi, kaks kõrvalprojekti ja sada lahtist tabi veebibrauseris. Sa ei taha teha üht asja korraga, sest kõike on vaja proovida. Kuigi sa oled tihti väsinud ja võib olla sulle meeldib kofeiin, oled sa see inimene, kes suudab igas olukorras võita ja ka teisi toetada.",
+      "image": "images/kymnevoistlus.jpg",
+      "credit": "https://www.pexels.com/photo/a-man-in-blue-tank-top-and-red-shorts-jumping-on-the-field-12683248/"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Sulle saadetakse 4-minutiline häälesõnum. Kuidas reageerid?",
+      "options": [
+        {
+          "text": "Panen kohe 2x kiiruse peale, sest mul on teisi asju teha.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "100m-sprint": 1
+          }
+        },
+        {
+          "text": "Kuulan rahulikult lõpuni, teen samal ajal süüa ja saadan vastu 6-minutilise sõnumi.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "maraton": 1
+          }
+        },
+        {
+          "text": "Kuulan esimesed 30 sekundit, saan üldise mõtte kätte ja improviseerin vastuse.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "teivashupe": 1
+          }
+        },
+        {
+          "text": "Kirjutan vastu, et kirjutagu sõnum, ma ei hakka seda kõike kuulama.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuulitõuge": 1
+          }
+        },
+        {
+          "text": "Kuulan samal ajal, kui vastan meilidele, teen trenni ja koristan tuba.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kumnevoistlus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Kuidas suhtud grupitöödesse?",
+      "options": [
+        {
+          "text": "Teen oma osa esimesel õhtul valmis, sest ma ei viitsi oodata, millal teised tegema hakkavad.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "100m-sprint": 1
+          }
+        },
+        {
+          "text": "Mina olen see, kes teeb Google Docsi põhja, hoiab tähtaegadel silma peal ja esitab töö ära, kui teised on väsinud.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "maraton": 1
+          }
+        },
+        {
+          "text": "Ma ei tee terve nädala mitte midagi, aga tund enne tähtaega teen sellise esitluse, et hindaja plaksutab.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "teivashupe": 1
+          }
+        },
+        {
+          "text": "Ütlen kohe alguses konkreetselt ära, mis osa ma teen, teen selle ära ja rohkem mind ei segata.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuulitõuge": 1
+          }
+        },
+        {
+          "text": "Ma olen projektijuht, kujundaja, tekstikirjutaja ja esitleja kõik koos, sest ma ei tea, kui palju teised teha kavatsevad.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kumnevoistlus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Mis on sinu jaoks kõige suurem ick tänaval kõndides?",
+      "options": [
+        {
+          "text": "Inimesed, kes kõnnivad neljakesi kõrvuti aegluubis ja võtavad kogu kõnnitee.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "100m-sprint": 1
+          }
+        },
+        {
+          "text": "Kui ma unustan kõrvaklapid koju ja pean omaenda mõtetega 20min üksi olema.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "maraton": 1
+          }
+        },
+        {
+          "text": "Kui ma komistan sileda tee peal ja pean tegema näo, et ma tegelikult hakkasingi just sörkima.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "teivashupe": 1
+          }
+        },
+        {
+          "text": "Inimesed, kes üritavad mulle keset tänavat mingit flaierit või küsitlust peale määrida.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuulitõuge": 1
+          }
+        },
+        {
+          "text": "Kui mul on käed kotte täis, telefon heliseb ja samal ajal hakkab vihma sadama.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kumnevoistlus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Kuidas sa pakid kohvrit enne reisi?",
+      "options": [
+        {
+          "text": "Viskan 15 min enne takso tulekut suvalised asjad kotti.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "100m-sprint": 1
+          }
+        },
+        {
+          "text": "Mul on Exceli tabel või Notesi list tehtud juba nädal aega varem ja kõik on rullitud kategooriate kaupa.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "maraton": 1
+          }
+        },
+        {
+          "text": "Ma pakin kaasa kolm täiesti ebapraktilist outfiti ja unustan hambaharja, aga kohapeal lahendan kõik ära.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "teivashupe": 1
+          }
+        },
+        {
+          "text": "Mul on üks väike seljakott. Kui sinna ei mahu, siis järelikult pole seda vaja.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuulitõuge": 1
+          }
+        },
+        {
+          "text": "Ma pakin kõigeks: ujumisriided, talvejope, matkasaapad ja igaks juhuks ka lauamängud.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kumnevoistlus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Sinu brauseris on praegu lahti…",
+      "options": [
+        {
+          "text": "Üks tab, sest ma just otsisin midagi ja panin selle kohe kinni.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "100m-sprint": 1
+          }
+        },
+        {
+          "text": "Mitu suurt artiklit, 1 wikipedia leht ja 2-tunnine YouTubei õppevideo.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "maraton": 1
+          }
+        },
+        {
+          "text": "17 pooleliolevat ostukorvi ja reiside nimekirja veebileht.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "teivashupe": 1
+          }
+        },
+        {
+          "text": "Pangakonto, ilmateade ja meil. Kõik muu on müra.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuulitõuge": 1
+          }
+        },
+        {
+          "text": "84 tabi, millest pooled on lahti olnud eelmise aasta septembrist saadik ja mu arvuti ventilaator vajab puhkust..",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kumnevoistlus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Kuidas sa reageerid, kui plaanid viimasel hetkel muutuvad?",
+      "options": [
+        {
+          "text": "Super, mul oligi juba igav. Teeme midagi täiesti uut.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "100m-sprint": 1
+          }
+        },
+        {
+          "text": "Ausalt öeldes mulle sobib, sest ma saan nüüd rahulikult kodus oma asjadega tegeleda.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "maraton": 1
+          }
+        },
+        {
+          "text": "Say less, lähme vooluga kaasa ja vaatame, kuhu hommikuks välja jõuame.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "teivashupe": 1
+          }
+        },
+        {
+          "text": "Ma ei viitsi seda asja ümber plaanida. Kui esialgne plaan jääb ära, siis mõni teine kord.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuulitõuge": 1
+          }
+        },
+        {
+          "text": "Pole probleemi, mul on juba mitu teist head plaani varrukast võtta.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kumnevoistlus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Kuidas suhtud kohvi ja energiajookidesse?",
+      "options": [
+        {
+          "text": "Joon ühe topeltespresso põhjani ja olen järgmised 45 minutit nagu Flash.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "100m-sprint": 1
+          }
+        },
+        {
+          "text": "Ma ei vaja kofeiini, mul on loomulik püsiv energia (või ma joon lihtsalt rohelist teed).",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "maraton": 1
+          }
+        },
+        {
+          "text": "Ma joon jääkohvi ka siis, kui õues on talveilm, sest see on go-to jook.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "teivashupe": 1
+          }
+        },
+        {
+          "text": "Must kohv. Ilma piimata, ilma suhkruta.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuulitõuge": 1
+          }
+        },
+        {
+          "text": "Mul on kogu aeg kolm erinevat jooki laua peal. Vesi, sest see on vajalik. Kohv energiaks ja midagi magusat niisama.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kumnevoistlus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Sinu telefonil on 2% akut ja laadijat pole läheduses. Mida teed?",
+      "options": [
+        {
+          "text": "Saadan kiirelt kõik tähtsad sõnumid ära, panen Low Power mode peale ja jooksen koju.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "100m-sprint": 1
+          }
+        },
+        {
+          "text": "Mind ei huvita, ma naudin lihtsalt offline olekut kuni koju jõuan.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "maraton": 1
+          }
+        },
+        {
+          "text": "Küll ma kuskilt kohvikust või suvalise käes laadija välja võlun.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "teivashupe": 1
+          }
+        },
+        {
+          "text": "Panen telefoni taskusse. Kui aku saab tühjaks, siis las saab. Pärast laen ära.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuulitõuge": 1
+          }
+        },
+        {
+          "text": "Mul on kotis akupank, juhtmed ja adapter ka.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kumnevoistlus": 1
+          }
+        }
+      ]
+    }
+  ]
+}
