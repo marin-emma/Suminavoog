@@ -19,7 +19,7 @@ Küsimustik
 .quiz-preview-card {
   display: flex;
   align-items: stretch;
-  background-color: #e6e6e6;
+  background-color: #F7EA78;
   text-decoration: none;
   color: #000000;
   overflow: hidden;
@@ -27,7 +27,7 @@ Küsimustik
 }
 
 .quiz-preview-card:hover {
-  background-color: #dcdcdc;
+  background-color: #ECD74C;
 }
 
 .quiz-preview-card:focus-visible {

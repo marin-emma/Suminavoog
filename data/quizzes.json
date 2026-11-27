@@ -54,26 +54,26 @@
     "credit": ""
   },
   {
-    "id": "",                   
-    "title": "",
+    "id": "voodi",                   
+    "title": "Vasta küsimustele ja saad teada, mis voodi sa oled.",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "",                   
-    "title": "",
+    "id": "jousaaliharjutus",                   
+    "title": "Vasta küsimustele ja saad teada, missugune jõusaali harjutus sa oled.",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "",                   
-    "title": "",
+    "id": "kuifitoled",                   
+    "title": "Vasta küsimustele ja saad teada, kui fit sa oled.",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-",                   
-    "title": "",
+    "id": "tropes",                   
+    "title": "Mis character trope sa oled?",
     "image": "images/",
     "credit": "credit"
   },
