@@ -1,0 +1,406 @@
+{
+  "title": "Milline voodi sa oled?",
+  "description": "Vasta küsimustele ja saad teada, milline voodi sa oled.",
+  "results": {
+    "king_size": {
+      "title": "Sa oled King-size luksusvoodi (see, millel mingi 14 patja peal on)",
+      "description": "Oled main character ja sinu elu on üks suur esteetiline Pinteresti tahvel. Sul on hommiku- ja õhturutiin, siidist padjapüür ja LED-valgustus. Sa oled pehme, luksuslik ja armastad tähelepanu.",
+      "image": "",
+      "credit": ""
+    },
+    "madrats": {
+      "title": "Sa oled madrats põrandal",
+      "description": "Sa oled grindset režiimil. Kellel on vaja voodiraami, kui see raha saab minna krüptosse, uute tossude ostmisele või lihtsalt pangaarvele? Sa oled praktiline, kahe jalaga maa peal ning ei vaja eluks tilulilu. Sul on suva, mida teised arvavad, peaasi, et rüht on sirge ja vibe on hea.",
+      "image": "",
+      "credit": ""
+    },
+    "narivoodi": {
+      "title": "Sa oled narivoodi",
+      "description": "Sa oled seltskonnahing, kellel on alati midagi toimumas. Sulle meeldib tegevus, vaheldus ja sa kindlasti ka ei karda natuke ronida, et oma eesmärkideni jõuda. Tihti elad sa mitme inimese elu korraga ja sinuga ei hakka kunagi igav.",
+      "image": "",
+      "credit": ""
+    },
+    "vedruvoodi": {
+      "title": "Sa oled maal olev krigisev vedruvoodi",
+      "description": "Sinu hing on väga vana ja sa armastad nostalgiat rohkem kui tänapäeva fast-fashion maailma. Sa oled usaldusväärne, sügavate juurtega ja kuigi sa teed natuke häält krigisedes vahepeal (ehk vingud), kui keegi sind liiga järsult liigutab, oled sa tegelikult maailma kõige turvalisem ja soojem koht, kuhu maanduda.",
+      "image": "",
+      "credit": ""
+    },
+    "diivanivoodi": {
+      "title": "Sa oled lahtikäiv diivanivoodi",
+      "description": "Sa oled tõeline multitasker ja väga paindlik. Päeval oled sa asjalik, viisakas ja valmis külalisi vastu võtma, aga õhtul käib klõps ja sa hakkad lihtsalt lebotama. Sa oled alati valmis ootamatusteks, kohandud iga olukorraga ja kuigi sa oled vahel natuke ületöötanud, saad sa alati kõigega hakkama.",
+      "image": "",
+      "credit": ""
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Kell on 23:45, oled voodis, aga und ei tule. Mida teed?",
+      "options": [
+        {
+          "text": "Scrollin TikTokis seni, kuni telefon käest kukub ja algoritm mind oma unejutuga magama paneb.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "narivoodi": 1
+          }
+        },
+        {
+          "text": "Teen oma 10-sammulise õhturutiini lõpuni, panen difuuserisse lavendliõli ja teen sissekande päevikusse.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "king_size": 1
+          }
+        },
+        {
+          "text": "Vaatan lakke ja mõtlen oma elu otsuste üle seni, kuni magama jään.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "madrats": 1
+          }
+        },
+        {
+          "text": "Panen taustale käima mõne klassikalise sarja, sest vaikuses on liiga palju mõtteid.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "diivanivoodi": 1
+          }
+        },
+        {
+          "text": "Loen raamatut või joon kummeliteed. Ekraani ei vaata enne und.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vedruvoodi": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Sõber küsib viimasel hetkel, kas ta võib täna ööseks sinu juurde jääda. Kuidas reageerid?",
+      "options": [
+        {
+          "text": "Muidugi! Mul on alati ruumi. Teeme ühe vinge sleepoveri, räägime kella nelja hommikuni juttu.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "narivoodi": 1
+          }
+        },
+        {
+          "text": "Mul pole küll lisatekki ega patja, aga kui sulle sobib kasvõi jope, siis võid tulla.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "madrats": 1
+          }
+        },
+        {
+          "text": "Ikka, ma viskan kiirelt asjad eest ära ja teen sulle koha valmis.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "diivanivoodi": 1
+          }
+        },
+        {
+          "text": "Okei, aga hoiatan ette, et siin tuleb olla vaikne ning hommikul ärkame vara.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vedruvoodi": 1
+          }
+        },
+        {
+          "text": "Appi, ma sain just voodipesu vahetatud. Võid tulla küll, aga palun käi enne duši all.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "king_size": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Kuidas suhtud hommikusse voodi tegemisse?",
+      "options": [
+        {
+          "text": "Teen kohe ära, sest sassis voodi rikub kogu toa aura ning meeleolu.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "king_size": 1
+          }
+        },
+        {
+          "text": "Milleks? Õhtul lähen nagunii sinna tagasi magama. See on puhas ajaraiskamine.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "madrats": 1
+          }
+        },
+        {
+          "text": "Viskan teki kuidagi sirgeks, et Zoomi kõnes kaamerast normaalne välja näeks.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "diivanivoodi": 1
+          }
+        },
+        {
+          "text": "Klopin padjad kohevaks ja silun lina täpselt nii, nagu mulle lapsepõlves õpetati.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vedruvoodi": 1
+          }
+        },
+        {
+          "text": "Ma hüppan voodilt lihtsalt üles ja torman välja. Tekk jääb sinna, kuhu ta kukub.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "narivoodi": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Kuidas sa suhtud voodis söömisesse?",
+      "options": [
+        {
+          "text": "Voodis süüakse ainult siis, kui sul on partner teinud hommikusöögi kandikul.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "king_size": 1
+          }
+        },
+        {
+          "text": "Absoluutselt ei, purud linade vahel on väga ebameeldiv.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vedruvoodi": 1
+          }
+        },
+        {
+          "text": "Krõpsupakk ja pitsakarp käivad asja juurde. Pärast saab lina lihtsalt puhtaks raputada.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "madrats": 1
+          }
+        },
+        {
+          "text": "Kuna ma elan praktiliselt ühes kohas, siis toimub siin nii söömine, töötamine kui ka magamine.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "diivanivoodi": 1
+          }
+        },
+        {
+          "text": "Täiesti okei, peaasi, et midagi maha ei kuku.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "narivoodi": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Mis on sinu jaoks kõige suurem ick magamise juures?",
+      "options": [
+        {
+          "text": "Kui toas on liiga palav ja keegi hingab kuklasse.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "madrats": 1
+          }
+        },
+        {
+          "text": "Kui tekikott on seest sassi läinud ja tekk on ühes nurgas puntras.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vedruvoodi": 1
+          }
+        },
+        {
+          "text": "Kui keegi istub voodi peale oma välisriietes.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "king_size": 1
+          }
+        },
+        {
+          "text": "Kui mul on ainult 4 tundi aega magada, aga ma pean hommikul nägu tegema, et olen täiesti puhanud.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "diivanivoodi": 1
+          }
+        },
+        {
+          "text": "Kui on liiga vaikne või igav. Mul on vaja taustamüra või tegevust.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "narivoodi": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Kuidas näeb välja üks hea pühapäevahommik?",
+      "options": [
+        {
+          "text": "Voodis lamamine kella kaheni päeval, jääkohv ja null kohustust.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "king_size": 1
+          }
+        },
+        {
+          "text": "Ärkan vara hommikul ilma äratuskellata, teen pannkooke ja kuulan podcasti.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vedruvoodi": 1
+          }
+        },
+        {
+          "text": "Ärkan üles, teen trenni või jalutuskäigu ja hakkan kohe midagi asjalikku tegema.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "madrats": 1
+          }
+        },
+        {
+          "text": "Vaatan sarju, puhkan ja õhtul panen kõik valmis, et esmaspäevaga alustada.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "diivanivoodi": 1
+          }
+        },
+        {
+          "text": "Lähen sõpradega linna sööma, voodis passimine on igav.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "narivoodi": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Kuidas suhtud hommikusse äratuskella?",
+      "options": [
+        {
+          "text": "Mul on pandud 14 äratust 2-minutiliste vahedega, sest ma tahan tunda, et ma kontrollin aega.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "diivanivoodi": 1
+          }
+        },
+        {
+          "text": "Ärkan enne kella, sest mu aju otsustas juba kell 06:12 hakata lahendama erinevaid probleeme ja ülesandeid.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vedruvoodi": 1
+          }
+        },
+        {
+          "text": "Ma ei pane kunagi äratuskella. Kui ma jõuan kooli või tööle õigeks ajaks, siis nii peab olema.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "madrats": 1
+          }
+        },
+        {
+          "text": "Mul on äratuskellaks mingi ülimalt pehme ja esteetiline linnulaul, mis mind vaikselt siidipatjade vahelt üles äratab.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "king_size": 1
+          }
+        },
+        {
+          "text": "Esimese piiksu peale kargan püsti, sest uus päev ja tegevused ootavad.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "narivoodi": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Kuidas sa käitud, kui on vaja voodipesu vahetada?",
+      "options": [
+        {
+          "text": "See on minu jaoks nagu eraldi sündmus. Pesen linad kalli pesuvahendiga ja lisan hea lõhnaga spreid puhtale voodile. Klopin padjad ära ka.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "king_size": 1
+          }
+        },
+        {
+          "text": "Teen seda ainult siis, kui keegi ütleb mulle, või kui ma ise märkan, et voodipesu on mustaks läinud.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "madrats": 1
+          }
+        },
+        {
+          "text": "Ajan tekikoti nurke paika iganädalaselt. Ma reaalselt ronin sinna tekikotti ise sisse, et see tekk lõpuks sirgeks saada.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "narivoodi": 1
+          }
+        },
+        {
+          "text": "Iga pühapäev täpselt kell 10:00 vahetan voodipesu. Kummiga lina voltimine ei tekita mulle mingit raskust.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vedruvoodi": 1
+          }
+        },
+        {
+          "text": "Võtan vanad linad ära hommikul, unustan uued peale panna ja avastan enne magaminekut kell 1 öösel, et pean nüüd uniselt kummiga lina nurkadega maadlema.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "diivanivoodi": 1
+          }
+        }
+      ]
+    }
+  ]
+}

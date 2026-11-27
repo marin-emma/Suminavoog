@@ -1,0 +1,192 @@
+{
+  "title": "Vasta küsimustele, ja ma ütlen kui fit sa oled",
+  "description": "Tee see lühike test läbi ja saa teada, kui aktiivne ja heas vormis sa oma igapäevaste harjumuste põhjal oled.",
+  "results": {
+    "vahe_fit": {
+      "title": "Sa oled vähe fit",
+      "description": "Sinu igapäevased valikud soosivad mugavust ja puhkust. Väikesed muudatused, nagu trepist käimine või lühikesed jalutuskäigud, aitavad sul end juba peagi energilisemana tunda.",
+      "image": "",
+      "credit": ""
+    },
+    "keskmiselt_fit": {
+      "title": "Sa oled keskmiselt fit",
+      "description": "Sul on hea tasakaal aktiivsuse ja mugavuse vahel. Sa liigud piisavalt ja hoiad oma harjumused mõistlikuna, kuid väikese lisapingutusega suudaksid veelgi rohkem saavutada.",
+      "image": "",
+      "credit": ""
+    },
+    "vaga_fit": {
+      "title": "Sa oled väga fit",
+      "description": "Liikumine, trenn ja teadlikud valikud on sinu elustiili loomulik osa. Sa ei otsi vabandusi ja hoiad oma keha ning vaimu suurepärases vormis!",
+      "image": "",
+      "credit": ""
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Kuidas sa tavaliselt kolmandale või neljandale korrusele liigud?",
+      "options": [
+        {
+          "text": "Kui on valikuks lift või trepp, siis pigem liftiga.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vahe_fit": 1
+          }
+        },
+        {
+          "text": "Tavaliselt trepist, aga kui on lisaraskused (nt kott ja muu), siis liftiga.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "keskmiselt_fit": 1
+          }
+        },
+        {
+          "text": "Alati trepiga, vahepeal astun ka kaks astet korraga.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vaga_fit": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Kui tihti sa nädalas teadlikult trenni teed või liigud aktiivselt?",
+      "options": [
+        {
+          "text": "Mis asi see “teadlik trenn” on?",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vahe_fit": 2
+          }
+        },
+        {
+          "text": "1-2 korda nädalas, kui viitsin",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "keskmiselt_fit": 1
+          }
+        },
+        {
+          "text": "3-4 korda nädalas",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vaga_fit": 1
+          }
+        },
+        {
+          "text": "Rohkem kui 4 korda nädalas. Olen pidevalt aktiivne.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vaga_fit": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Kas sa jälgid oma igapäevast toitumist? (näiteks kalorid, valgud)",
+      "options": [
+        {
+          "text": "Söön siis, kui tunne on.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vahe_fit": 1
+          }
+        },
+        {
+          "text": "Proovin rämpstoitu vältida. Söön mõistlikus koguses magusat.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "keskmiselt_fit": 1
+          }
+        },
+        {
+          "text": "Jälgin oma igapäevast toitu järjepidevalt.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vaga_fit": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Oled diivanil pikutamas ja pult kukub põrandale, mida sa teed?",
+      "options": [
+        {
+          "text": "Jätkan pikutamist, las see pult olla seal põrandal.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vahe_fit": 2
+          }
+        },
+        {
+          "text": "Kutsun kellegi appi.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vahe_fit": 1
+          }
+        },
+        {
+          "text": "Proovin puldini käega ulatuda diivanilt, et mitte püsti tõusta.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "keskmiselt_fit": 1
+          }
+        },
+        {
+          "text": "Tõusen püsti ja võtan puldi põrandalt.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vaga_fit": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Kavatsed jõusaali trenni minna, aga kohale saabudes märkad, et jõusaalis on hooldustööd ning see on ajutiselt suletud. Samas on 20min kaugusel teine jõusaal lahti. Mida teed?",
+      "options": [
+        {
+          "text": "Lähen koju tagasi, ma ei tahtnudki trenni eriti tulla.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vahe_fit": 1
+          }
+        },
+        {
+          "text": "Teen kükke, kätekõverdusi või muud sarnast kodus. Ei viitsi teise jõusaalini liikuda, aga mingigi trenn peab tehtud saama.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "keskmiselt_fit": 1
+          }
+        },
+        {
+          "text": "Lähen teise jõusaali trenni tegema. Ei hakka mingit vabandust leidma.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "vaga_fit": 1
+          }
+        }
+      ]
+    }
+  ]
+}

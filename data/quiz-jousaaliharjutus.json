@@ -1,0 +1,314 @@
+{
+  "title": "Mis jõusaali harjutus sa oled?",
+  "description": "Vasta küsimustele ja saad teada, mis jõusaali harjutus sa oled.",
+  "results": {
+    "squat": {
+      "title": "Sa oled Squat",
+      "description": "Oled tõeline kangelane. Sa ei karda valu ega higi. Kui teised istuvad oma mugavustsoonis, siis sina otsid maksimumkoormust. Struktureeritud, sihikindel ja valmis tegema tööd, mida teised väldivad.",
+      "image": "",
+      "credit": ""
+    },
+    "hip_thrust": {
+      "title": "Sa oled Hip Thrust",
+      "description": "Sinu main character energy on laes ning oled tõeline social butterfly. Jõusaal on sinu jaoks koht, kus näidata oma uusi trenniriideid, suhelda teistega ja samal ajal trenni nautida. Oled alati kohal, et särada.",
+      "image": "",
+      "credit": ""
+    },
+    "bench_press": {
+      "title": "Sa oled Bench Press",
+      "description": "Oled kas klassikaline ego-lifter või lihtsalt pühendunud tulemustele. Sinult võib kuulda küsimust “Kuule, kas sa 100kg jõuad suruda?”. Sinu trennid keerlevad ümber isiklike rekordite jahtimise, vaatad pidevalt peeglisse ning elad täiega hustle-režiimil.",
+      "image": "",
+      "credit": ""
+    },
+    "treadmill": {
+      "title": "Sa oled Treadmill (ehk jooksmine)",
+      "description": "Oled see inimene, kes teeb active recoveryt ja wellness-trenni. Sa ei viitsi ennast väsinuks rabeleda. Sinu jaoks on trenn pigem meelelahutus, podcastide kuulamine ja endale hea tunde tekitamine.",
+      "image": "",
+      "credit": ""
+    },
+    "lat_pulldown": {
+      "title": "Sa oled Lat Pulldown",
+      "description": "Oled tasakaalukas ning sulle meeldib näha häid tulemusi ilma, et peaksid midagi üle tegema. Tahad lihtsalt ära teha oma harjutused, saada energia laksu ning jätkata oma päevaga. Oled väga chill.",
+      "image": "",
+      "credit": ""
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Kuidas sa suhtud tänapäeva jõusaali suunamudijatesse ning TikToki trendidesse (gymtok)?",
+      "options": [
+        {
+          "text": "Mis asi see gymtok on? Ma teen trenni omamoodi rahulikult ja ilma igasuguse draamata.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "lat_pulldown": 1
+          }
+        },
+        {
+          "text": "Täiega lahe ja täitsa minu asi! Jõusaal peab olema esteetiline, täis head energiat ja ma teen kindlasti oma selfie või story ära.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "hip_thrust": 1
+          }
+        },
+        {
+          "text": "Mingi tsirkus. Inimesed mõtlevad alati välja mingid uued trikid ja harjutused. Tegelik töö saab tehtud raskete baasharjutustega.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "squat": 1
+          }
+        },
+        {
+          "text": "Olen pidevalt kõigega kursis, et leida uusi nippe, kuidas uut rekordit saavutada ning areneda.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "bench_press": 1
+          }
+        },
+        {
+          "text": "Olen neutraalne selle suhtes, aga mind kõnetab rohkem minu enda heaolu, muusika kuulamine ja see, et jõusaalis oleks kõigil hea tuju.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "treadmill": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Kuidas suhtud toitumisse?",
+      "options": [
+        {
+          "text": "Mulle meeldib hea toit, aga proovin ikkagi süüa kõike mõistuse piires.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "lat_pulldown": 1
+          }
+        },
+        {
+          "text": "Toit on nagu elamus ja osa heast elustiilist. See peab hästi välja nägema, maitsema ja sobima minu elustiiliga.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "hip_thrust": 1
+          }
+        },
+        {
+          "text": "Toit on nagu kütus. Jälgin pidevalt kaloreid ja valku, sest ilma nendeta lihas ei kasva.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "squat": 1
+          }
+        },
+        {
+          "text": "Söön nii palju ja nii tervislikult, kui saan. Ma tean, et toitumine on tähtis, aga ma ei mõtle sellele nii palju. Mõtlen rohkem trennile.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "bench_press": 1
+          }
+        },
+        {
+          "text": "Söön intuitiivselt ja mõnuga. Tähtsam on hea enesetunne ja tasakaal.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "treadmill": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Astun jõusaali sisse ja märkad, et sulle vajalik masin/trennivahend on kinni. Kuidas reageerid?",
+      "options": [
+        {
+          "text": "Pole probleemi. Alustan mõne teise harjutusega ja kohandan kava.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "lat_pulldown": 1
+          }
+        },
+        {
+          "text": "Ma võin oodata. Käin tiirutan senikaua, teen rohkem soojaks või ajan inimestega juttu.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "hip_thrust": 1
+          }
+        },
+        {
+          "text": "Kuidas ta julgeb seal praegu trenni teha? See mõjutab minu treeningplaani.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "squat": 1
+          }
+        },
+        {
+          "text": "Küsin, kas saan vahele teha. Äärmisel juhul lähen teen mingit muud harjutust, mis sarnaneb sellele.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "bench_press": 1
+          }
+        },
+        {
+          "text": "Reageerin rahulikult ning lähen senikaua venitama.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "treadmill": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Mida teen, kui hommikul äratuskell heliseb ja sa tead, et täna on trennipäev?",
+      "options": [
+        {
+          "text": "Vajutan paar korda snooze, aga tõusen ikkagi üles, sest kohustus kutsub.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "lat_pulldown": 1
+          }
+        },
+        {
+          "text": "Ärkan heas meeleolus, pakin kõige stiilsema outfiti trenniks valmis ning olen valmis täna saalis hea meelega trenni tegema.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "hip_thrust": 1
+          }
+        },
+        {
+          "text": "Tõusen kohe üles. Distsipliin viib sihile.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "squat": 1
+          }
+        },
+        {
+          "text": "Ärkasin juba varem, sest mõte tänasele trennile ei lase enam pärast ärkamist uuesti magama jääda.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "bench_press": 1
+          }
+        },
+        {
+          "text": "Magan ennast eelkõige välja, sest unekvaliteet on tähtis. Lähen täna trenni siis, kui keha on päriselt valmis.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "treadmill": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Kuidas sa suhtud treeneri või kogenuma inimese nõuandesse jõusaalis?",
+      "options": [
+        {
+          "text": "Kuulan rahulikult välja ja rakendan neid asju, mis tunduvad loogilised.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "lat_pulldown": 1
+          }
+        },
+        {
+          "text": "Võtan soovitused naeratusega vastu ja alati kuulan kõiki välja. Mulle meeldib suhelda ja teistega hästi läbi saada.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "hip_thrust": 1
+          }
+        },
+        {
+          "text": "Jälgin täpselt nende juhiseid ja teen soovitatud harjutuse kõige parema tehnikaga. Siis saab kindel olla, et nendest nõuannetest on tegelt ka kasu.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "squat": 1
+          }
+        },
+        {
+          "text": "Tean ise paremini. Aga kui tema nõuanne aitab mul rohkem tõsta, siis kuulan välja.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "bench_press": 1
+          }
+        },
+        {
+          "text": "Kuulan ära, aga kui see nõuanne rikuks ära minu rahuliku trenni, siis teen ikkagi omamoodi.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "treadmill": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Milline näeb üks hea puhkepäev välja?",
+      "options": [
+        {
+          "text": "Midagi mõnusat. Teen midagi kodus, loen või puhkan niisama.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "lat_pulldown": 1
+          }
+        },
+        {
+          "text": "Kindlasti peaks sõpradega või lähedastega midagi tegema. Kohvikus istumine või kasvõi lihtsalt kuskil seltskonnas olemine tooks sinna päeva sära.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "hip_thrust": 1
+          }
+        },
+        {
+          "text": "Puhkepäev tähendab aktiivset taastumist ja järgmise nädala plaanide koostamist.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "squat": 1
+          }
+        },
+        {
+          "text": "Vaatan uut trennivarustust ning mõtlen, mida järgmine kord saab veel paremini teha.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "bench_press": 1
+          }
+        },
+        {
+          "text": "Puhas self-care. Jalutuskäik, hea muusika, lebotamine ja absoluutne stressivaba keskkond.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "treadmill": 1
+          }
+        }
+      ]
+    }
+  ]
+}
