@@ -5,32 +5,32 @@
     "squat": {
       "title": "Sa oled Squat",
       "description": "Oled tõeline kangelane. Sa ei karda valu ega higi. Kui teised istuvad oma mugavustsoonis, siis sina otsid maksimumkoormust. Struktureeritud, sihikindel ja valmis tegema tööd, mida teised väldivad.",
-      "image": "",
-      "credit": ""
+      "image": "images/squat.jpg",
+      "credit": "https://unsplash.com/photos/a-person-in-a-gym-vCOd2HJ97AI"
     },
     "hip_thrust": {
       "title": "Sa oled Hip Thrust",
       "description": "Sinu main character energy on laes ning oled tõeline social butterfly. Jõusaal on sinu jaoks koht, kus näidata oma uusi trenniriideid, suhelda teistega ja samal ajal trenni nautida. Oled alati kohal, et särada.",
-      "image": "",
-      "credit": ""
+      "image": "images/hipthrust.jpg",
+      "credit": "https://www.pexels.com/photo/woman-lying-down-lifting-weights-13122465/"
     },
     "bench_press": {
       "title": "Sa oled Bench Press",
       "description": "Oled kas klassikaline ego-lifter või lihtsalt pühendunud tulemustele. Sinult võib kuulda küsimust “Kuule, kas sa 100kg jõuad suruda?”. Sinu trennid keerlevad ümber isiklike rekordite jahtimise, vaatad pidevalt peeglisse ning elad täiega hustle-režiimil.",
-      "image": "",
-      "credit": ""
+      "image": "images/benchpress.jpg",
+      "credit": "https://www.pexels.com/photo/man-practising-at-the-gym-14598861/"
     },
     "treadmill": {
       "title": "Sa oled Treadmill (ehk jooksmine)",
       "description": "Oled see inimene, kes teeb active recoveryt ja wellness-trenni. Sa ei viitsi ennast väsinuks rabeleda. Sinu jaoks on trenn pigem meelelahutus, podcastide kuulamine ja endale hea tunde tekitamine.",
-      "image": "",
-      "credit": ""
+      "image": "images/treadmill.jpg",
+      "credit": "https://www.pexels.com/photo/man-and-woman-on-treadmill-4944976/"
     },
     "lat_pulldown": {
       "title": "Sa oled Lat Pulldown",
       "description": "Oled tasakaalukas ning sulle meeldib näha häid tulemusi ilma, et peaksid midagi üle tegema. Tahad lihtsalt ära teha oma harjutused, saada energia laksu ning jätkata oma päevaga. Oled väga chill.",
-      "image": "",
-      "credit": ""
+      "image": "images/latpulldown.jpg",
+      "credit": "https://www.pexels.com/photo/back-view-of-man-exercising-at-gym-19254705/"
     }
   },
   "questions": [

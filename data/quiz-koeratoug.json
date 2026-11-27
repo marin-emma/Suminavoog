@@ -1,0 +1,298 @@
+{
+  "title": "Mis koeratõug sa oled?",
+  "description": "Vasta küsimustele ja saa teada, milline koeratõug kirjeldab sinu iseloomu kõige paremini.",
+  "results": {
+    "husky": {
+      "title": "Sa oled Husky",
+      "description": "Oled väga energiline. Vajad pidevalt uusi väljakutseid ja teed asju sageli täiesti omamoodi. Oled natuke reeglitevaba, kangekaelne, aga üliaktiivne ja seiklusjanuline.",
+      "image": "",
+      "credit": ""
+    },
+    "kuldne-retriiver": {
+      "title": "Sa oled Kuldne retriiver",
+      "description": "Oled sõbralik, kohanev ja positiivne. Sulle meeldib liikuda ja asjadega tegeleda. Oled tasakaalukas: teed rõõmuga trenni ja muid asju, aga naudid täiega ka sööki ja lebotamist.",
+      "image": "",
+      "credit": ""
+    },
+    "mops": {
+      "title": "Sa oled Mops",
+      "description": "Hindad üle kõige mugavust, head toitu ja rahu. Sinu motoks on “Miks ma peaks jooksma kui saab pikutada?”. Oled seltskondlik ja armas.",
+      "image": "",
+      "credit": ""
+    },
+    "saksa-lambakoer": {
+      "title": "Sa oled Saksa lambakoer",
+      "description": "Oled kohusetundlik, sihikindel ja struktureeritud. Kui sulle on antud mõni ülesanne või plaan, teed selle ära sõltumata oludest. Hindad rutiini, tõhusust ja tulemusi ning suunad oma energiat eesmärkide täitmisele.",
+      "image": "",
+      "credit": ""
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Sõber helistab sulle reede õhtul ja kutsub välja. Mida teed?",
+      "options": [
+        {
+          "text": "Vabandust, aga mul on pult, tekk ja krõpsud juba valmis pandud, ma ei liigu siit kuhugi.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "mops": 1
+          }
+        },
+        {
+          "text": "Ikka. Vaatab, mis saab, mulle meeldib sõpradega aega veeta.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuldne-retriiver": 1
+          }
+        },
+        {
+          "text": "Sorry, mul on täna õhtuks plaanitud trenn/muu tegevus. Pigem hoian oma plaanidest kinni.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "saksa-lambakoer": 1
+          }
+        },
+        {
+          "text": "Olen juba teel! Pole vahet kuhu, peaasi, et midagi põnevat toimuks.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "husky": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Kuidas sa suhtud sporditegemisse ja aktiivsesse liikumisse?",
+      "options": [
+        {
+          "text": "Mis asi see aktiivne liikumine on? Kodust kooli/tööle on minu päeva aktiivseim hetk.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "mops": 2
+          }
+        },
+        {
+          "text": "Mulle meeldib meelelahutuslik liikumine nagu jalutuskäigud, rattasõit, reketisport või ujumine sõpradega.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuldne-retriiver": 1
+          }
+        },
+        {
+          "text": "Aktiivsus on kindel osa minu nädalast. Teadlikud trennid toimuvad 3-5 korda nädalas.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "saksa-lambakoer": 1
+          }
+        },
+        {
+          "text": "Mulle meeldib igat sorti liikumine. Olgu see lihtsalt jalutamine või intensiivne treening - sportimine on tervislik ja tähtis!",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "husky": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Milline on sinu suhtumine söömisesse?",
+      "options": [
+        {
+          "text": "Toit on üks suur nauding. Söön seda, mis on maitsev ja siis, kui tahan.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "mops": 1
+          }
+        },
+        {
+          "text": "Armastan head toitu ja söön rõõmuga, aga proovin üldiselt süüa tasakaalukalt.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuldne-retriiver": 1
+          }
+        },
+        {
+          "text": "Jälgin oma toitumist (kalorid, valgud, vitamiinid), sest toit on kütus minu kehale.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "saksa-lambakoer": 1
+          }
+        },
+        {
+          "text": "Söön siis, kui meelde tuleb või kui näljane olen. Mul on väga palju tegemist.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "husky": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Plaanid minna poodi või sõpradega jalutama, aga väljas hakkab lausvihma sadama. Kuidas reageerid?",
+      "options": [
+        {
+          "text": "Suurepärane hetk koju jääda ja uinak teha.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "mops": 1
+          }
+        },
+        {
+          "text": "Okei, kohandab plaani. Teeb midagi toas või ootab, kuni vihm lõpeb.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuldne-retriiver": 1
+          }
+        },
+        {
+          "text": "Vihm ei ole takistus. Panen õiged riided selga ja lähen ikkagi.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "saksa-lambakoer": 1
+          }
+        },
+        {
+          "text": "Vihm? Väga hästi, lähen välja ja naudin seda.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "husky": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Mida teed, kui hommikul äratuskell heliseb?",
+      "options": [
+        {
+          "text": "Vajutan mitu korda snooze peale ja mõtlen, kas pean ikka täna kooli/tööle minema.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "mops": 2
+          }
+        },
+        {
+          "text": "Ärkan heas meeleolus, sirutan ja olen valmis vaatama, mida uus päev endaga kaasa toob.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuldne-retriiver": 1
+          }
+        },
+        {
+          "text": "Tõusen rahulikult üles. Söön, pesen hambad, teen muid asju, mida iga hommik teen.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "saksa-lambakoer": 1
+          }
+        },
+        {
+          "text": "Ärkan enne äratuskella. Olen entusiastlik ja valmis kohe midagi tegema.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "husky": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Kuidas käitud, kui sulle antakse kindlate reeglitega või struktuuriga ülesanne?",
+      "options": [
+        {
+          "text": "Proovin leida kõige lihtsama ja vähem vaeva nõudva viisi selle ära tegemiseks.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "mops": 1
+          }
+        },
+        {
+          "text": "Teen ära nii, et kõigil oleks hea ja ei tekiks pahandust. Meeskonnatöö on tähtis.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuldne-retriiver": 1
+          }
+        },
+        {
+          "text": "Teen selle usinalt ja täpselt juhiste järgi ära.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "saksa-lambakoer": 2
+          }
+        },
+        {
+          "text": "Teen ülesande ära, aga lähenen sellele omamoodi või loovalt.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "husky": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Milline puhkepäeva tegevus kõnetab sind kõige rohkem?",
+      "options": [
+        {
+          "text": "Terve päev tekiga diivanil, lemmiksarjad ja hea toit.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "mops": 1
+          }
+        },
+        {
+          "text": "Mõnus grilliõhtu sõpradega, pargis jalutamine või rannas lebotamine.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "kuldne-retriiver": 2
+          }
+        },
+        {
+          "text": "Mingi väljakutse, projekt või sportimine.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "saksa-lambakoer": 1
+          }
+        },
+        {
+          "text": "Reis või külastuskäik huvitavasse kohta. Mulle meeldib uut kultuuri või keskkonda kogeda.",
+          "image": "",
+          "credit": "",
+          "scores": {
+            "husky": 1
+          }
+        }
+      ]
+    }
+  ]
+}

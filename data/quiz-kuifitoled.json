@@ -3,22 +3,22 @@
   "description": "Tee see lühike test läbi ja saa teada, kui aktiivne ja heas vormis sa oma igapäevaste harjumuste põhjal oled.",
   "results": {
     "vahe_fit": {
-      "title": "Sa oled vähe fit",
-      "description": "Sinu igapäevased valikud soosivad mugavust ja puhkust. Väikesed muudatused, nagu trepist käimine või lühikesed jalutuskäigud, aitavad sul end juba peagi energilisemana tunda.",
-      "image": "",
-      "credit": ""
+      "title": "Vorm vajab turgutust.",
+      "description": "Su päevane tipphetk on Wolti kullerile ukse avamine ja liftiga teisele korrusele sõitmine.",
+      "image": "images/unfit.jpg",
+      "credit": "https://unsplash.com/photos/a-person-holding-a-plate-with-a-sandwich-on-it-xs2rdwVoqks"
     },
     "keskmiselt_fit": {
-      "title": "Sa oled keskmiselt fit",
-      "description": "Sul on hea tasakaal aktiivsuse ja mugavuse vahel. Sa liigud piisavalt ja hoiad oma harjumused mõistlikuna, kuid väikese lisapingutusega suudaksid veelgi rohkem saavutada.",
-      "image": "",
-      "credit": ""
+      "title": "Täiesti okei keskmine",
+      "description": "Liigud piisavalt, et tervislik olla, aga olümpiale veel asja pole. Sul on hea põhi all, though.",
+      "image": "images/mediumfit.jpg",
+      "credit": "https://unsplash.com/photos/man-and-woman-jogging-together-in-a-park-2_k8XPnnXJQ"
     },
     "vaga_fit": {
-      "title": "Sa oled väga fit",
-      "description": "Liikumine, trenn ja teadlikud valikud on sinu elustiili loomulik osa. Sa ei otsi vabandusi ja hoiad oma keha ning vaimu suurepärases vormis!",
-      "image": "",
-      "credit": ""
+      "title": "Täielik tippvorm",
+      "description": "Sinu jaoks pole halba ilma, on ainult valed tossud. Trenn on sul sama elementaarne nagu hambapesu ja oled ilmselt teistele eeskujuks.",
+      "image": "images/fit.jpg",
+      "credit": "https://unsplash.com/photos/a-man-and-a-woman-standing-next-to-each-other-_7C3AnUy2xg"
     }
   },
   "questions": [

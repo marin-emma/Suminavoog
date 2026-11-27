@@ -5,32 +5,32 @@
     "king_size": {
       "title": "Sa oled King-size luksusvoodi (see, millel mingi 14 patja peal on)",
       "description": "Oled main character ja sinu elu on üks suur esteetiline Pinteresti tahvel. Sul on hommiku- ja õhturutiin, siidist padjapüür ja LED-valgustus. Sa oled pehme, luksuslik ja armastad tähelepanu.",
-      "image": "",
-      "credit": ""
+      "image": "images/kingsize.jpg",
+      "credit": "https://www.pexels.com/photo/a-cozy-bedroom-5889900/"
     },
     "madrats": {
       "title": "Sa oled madrats põrandal",
       "description": "Sa oled grindset režiimil. Kellel on vaja voodiraami, kui see raha saab minna krüptosse, uute tossude ostmisele või lihtsalt pangaarvele? Sa oled praktiline, kahe jalaga maa peal ning ei vaja eluks tilulilu. Sul on suva, mida teised arvavad, peaasi, et rüht on sirge ja vibe on hea.",
-      "image": "",
-      "credit": ""
+      "image": "images/madrats.jpg",
+      "credit": "https://www.pexels.com/photo/mattress-in-bedroom-at-home-6045221/"
     },
     "narivoodi": {
       "title": "Sa oled narivoodi",
       "description": "Sa oled seltskonnahing, kellel on alati midagi toimumas. Sulle meeldib tegevus, vaheldus ja sa kindlasti ka ei karda natuke ronida, et oma eesmärkideni jõuda. Tihti elad sa mitme inimese elu korraga ja sinuga ei hakka kunagi igav.",
-      "image": "",
-      "credit": ""
+      "image": "images/narivoodi.jpg",
+      "credit": "https://www.pexels.com/photo/bright-modern-bunk-bed-design-for-cozy-spaces-40102057/"
     },
     "vedruvoodi": {
       "title": "Sa oled maal olev krigisev vedruvoodi",
       "description": "Sinu hing on väga vana ja sa armastad nostalgiat rohkem kui tänapäeva fast-fashion maailma. Sa oled usaldusväärne, sügavate juurtega ja kuigi sa teed natuke häält krigisedes vahepeal (ehk vingud), kui keegi sind liiga järsult liigutab, oled sa tegelikult maailma kõige turvalisem ja soojem koht, kuhu maanduda.",
-      "image": "",
-      "credit": ""
+      "image": "images/vedru.jpg",
+      "credit": "https://www.pexels.com/photo/cozy-vintage-bedroom-with-natural-light-37307504/"
     },
     "diivanivoodi": {
       "title": "Sa oled lahtikäiv diivanivoodi",
       "description": "Sa oled tõeline multitasker ja väga paindlik. Päeval oled sa asjalik, viisakas ja valmis külalisi vastu võtma, aga õhtul käib klõps ja sa hakkad lihtsalt lebotama. Sa oled alati valmis ootamatusteks, kohandud iga olukorraga ja kuigi sa oled vahel natuke ületöötanud, saad sa alati kõigega hakkama.",
-      "image": "",
-      "credit": ""
+      "image": "images/diivanivoodi.jpg",
+      "credit": "https://www.pexels.com/photo/white-and-black-pillows-on-the-bed-11296137/"
     }
   },
   "questions": [
