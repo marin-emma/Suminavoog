@@ -23,24 +23,34 @@ body {
   align-items: center;
   position: relative;
 }
-
-.header h1 {
+.header-link {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
+  display: flex;
+  text-decoration: none;
+}
+
+.header-link h1 {
   color: #EED122;
+  margin: 0;
   font-size: 4rem;
   text-align: center;
 }
 
 .logo-circle {
+  text-decoration: none;
   width: 100px;
   height: 100px;
-  background-color: #fff;
+  background-color: #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 50%;
+  border: 5px solid #EED122;
   overflow: hidden;
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
 }
 
 .logo-circle img {
@@ -53,7 +63,10 @@ body {
   width: 100%;
   background-color: #F7EA78;
   padding: 20px 0;
-  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  min-height: 100px;
 }
 
 .footer-content {
@@ -65,6 +78,11 @@ body {
 
 .footer-content a {
   color: #1A1A1A;
+  text-decoration: none;
+}
+
+.footer-content a:hover {
+  color: #000000;
 }
 
 .hidden {
