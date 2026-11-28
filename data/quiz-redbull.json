@@ -1,0 +1,434 @@
+{
+  "title": "Milline Red Bull sa oled?",
+  "description": "Vasta küsimustele ja ma ütlen, milline Red Bull sa oled!",
+  "results": {
+    "sugar-free": {
+      "title": "Sa oled Sugarfree",
+      "description": "Sa oled väga praktiline ja rahulik. Sa oled chill guy ja cool girl’i laps.",
+      "image": "images/sugar-free.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@foodistika?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Elena Leya</a> on <a href='https://unsplash.com/photos/the-word-stop-spelled-out-of-marshmallows-in-a-bowl-b55war1SCu4?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "original": {
+      "title": "Sa oled Original",
+      "description": "Sa oled kindel ja usaldusväärne. Sa ei pruugi alati originaalne olla, kuid sa meeldid teistele ja su peale saab loota.",
+      "image": "images/original.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@etiennegirardet?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Etienne Girardet</a> on <a href='https://unsplash.com/photos/brown-wooden-fence-with-red-and-white-love-print-sC4lWLbQSOU?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "peach": {
+      "title": "Sa oled Peach",
+      "description": "Sa oled nagu päikesekiir soojal suvepäeval. Sa kiirgad rõõmu ja sinuga on alati lõbus.",
+      "image": "images/peach.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@nisoncoprseo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>NisonCo PR and SEO</a> on <a href='https://unsplash.com/photos/a-pile-of-peaches-with-a-leaf-on-top-H4QpChoce7I?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "pistachio-berries": {
+      "title": "Sa oled Pistachio & Berries",
+      "description": "Sa võid vahel performatiivne olla, või sellise mulje jätta. Mõned su valikud on küsitletav.",
+      "image": "images/pistachio-berries.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@enginakyurt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>engin akyurt</a> on <a href='https://unsplash.com/photos/pile-of-fresh-pistachios-in-shells-GcruznrBh4g?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "iced-gummy-bear": {
+      "title": "Sa oled Iced Gummy Bear",
+      "description": "Sul on jäine väliskiht, mis võib teisi alguses eemale hirmutada. Keegi ei saa väita, et sa lahe pole.",
+      "image": "images/iced-gummy-bear.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@amit_lahav?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Amit Lahav</a> on <a href='https://unsplash.com/photos/yellow-green-and-red-plastic-beads-LU_fCezP9-o?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "coconut-berry": {
+      "title": "Sa oled Coconut-Berry",
+      "description": "Sa oled nagu teised tüdrukud, sulle meeldib trendidega kaasa minna. Sa saad kõigiga läbi ja oled alati valmis pidutsema.",
+      "image": "images/coconut-berry.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@srilanka?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Sri Lanka</a> on <a href='https://unsplash.com/photos/shallow-focus-photo-of-coconut-shells-0nH_OVirQSg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "monster": {
+      "title": "Sa oled Monster",
+      "description": "Miks sa selline oled? Mis sul lapsepõlves juhtus?",
+      "image": "images/monster.jpg",
+      "credit": "<a href='https://unsplash.com/illustrations/green-blob-monster-illustration-OlBUIAvZ0Iw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Illustration</a> by <a href='https://unsplash.com/@22fish_batmansuperman12345678909876543212345678/illustrations?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Aden Kolstad</a> on <a href='https://unsplash.com/illustrations?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Vali disney printsess",
+      "options": [
+        {
+          "text": "Belle",
+          "image": "",
+          "credit": "",
+          "scores": { "sugar-free": 1 }
+        },
+        {
+          "text": "Tuhkatriinu",
+          "image": "",
+          "credit": "",
+          "scores": { "original": 1 }
+        },
+        {
+          "text": "Tiana",
+          "image": "",
+          "credit": "",
+          "scores": { "peach": 1 }
+        },
+        {
+          "text": "Anna",
+          "image": "",
+          "credit": "",
+          "scores": { "pistachio-berries": 1 }
+        },
+        {
+          "text": "Elsa",
+          "image": "",
+          "credit": "",
+          "scores": { "iced-gummy-bear": 1 }
+        },
+        {
+          "text": "Rapuntsel",
+          "image": "",
+          "credit": "",
+          "scores": { "coconut-berry": 1 }
+        },
+        {
+          "text": "Lumivalgeke",
+          "image": "",
+          "credit": "",
+          "scores": { "monster": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Vali oma lemmik pop girl",
+      "options": [
+        {
+          "text": "Olivia Rodrigo",
+          "image": "",
+          "credit": "",
+          "scores": { "sugar-free": 1 }
+        },
+        {
+          "text": "Sabrina Carpenter",
+          "image": "",
+          "credit": "",
+          "scores": { "original": 1 }
+        },
+        {
+          "text": "Zara Larsson",
+          "image": "",
+          "credit": "",
+          "scores": { "peach": 1 }
+        },
+        {
+          "text": "Charli XCX",
+          "image": "",
+          "credit": "",
+          "scores": { "pistachio-berries": 1 }
+        },
+        {
+          "text": "PinkPantheress",
+          "image": "",
+          "credit": "",
+          "scores": { "iced-gummy-bear": 1 }
+        },
+        {
+          "text": "Taylor Swift",
+          "image": "",
+          "credit": "",
+          "scores": { "coconut-berry": 1 }
+        },
+        {
+          "text": "Nicki Minaj",
+          "image": "",
+          "credit": "",
+          "scores": { "monster": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Vali oma outfit",
+      "options": [
+        {
+          "text": "",
+          "image": "images/sweats.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@jadonjohnson?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Jadon Johnson</a> on <a href='https://unsplash.com/photos/a-young-woman-in-a-blue-tracksuit-squats-in-grass-4Xh8twzRKcs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "sugar-free": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/business-casual.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@brianwangenheim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Brian Wangenheim</a> on <a href='https://unsplash.com/photos/a-woman-standing-in-front-of-a-tall-building-Gwq1O6T1ODs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "original": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/winx.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@heyhey1710?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Heydam Taipe</a> on <a href='https://unsplash.com/photos/a-woman-wearing-a-purple-dress-and-a-tiara-S9btTClKHOw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "peach": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/trift.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@noemierssl?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Noémie Roussel</a> on <a href='https://unsplash.com/photos/clothes-hanged-on-clothes-hanger-ZoSftIGPP0g?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "pistachio-berries": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/street.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@thevoncomplex?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Mike Von</a> on <a href='https://unsplash.com/photos/woman-in-pink-hoodie-and-white-pants-sitting-on-floor-ggtb9-X2Q5U?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "iced-gummy-bear": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/workout.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@stadinstudio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Margo Evardson</a> on <a href='https://unsplash.com/photos/stylish-woman-in-white-outfit-and-sunglasses-against-wooden-door-gSN0e6GZYW8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "coconut-berry": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/city.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@riccardomion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Riccardo Mion</a> on <a href='https://unsplash.com/photos/woman-carrying-bag-during-nighttime-wYMxdgR5Ngk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "monster": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Su sõber kutsub sind viimasel hetkel peole, kuidas sa vastad",
+      "options": [
+        {
+          "text": "Kui sa mul outfiti aitad valida",
+          "image": "",
+          "credit": "",
+          "scores": { "sugar-free": 1 }
+        },
+        {
+          "text": "Sorri, mul on homme töö päev",
+          "image": "",
+          "credit": "",
+          "scores": { "original": 1 }
+        },
+        {
+          "text": "Ma olen kohe seal",
+          "image": "",
+          "credit": "",
+          "scores": { "peach": 1 }
+        },
+        {
+          "text": "Sorri, mul on pilates",
+          "image": "",
+          "credit": "",
+          "scores": { "pistachio-berries": 1 }
+        },
+        {
+          "text": "Ikka, kes seal veel on?",
+          "image": "",
+          "credit": "",
+          "scores": { "iced-gummy-bear": 1 }
+        },
+        {
+          "text": "See pole küsimus",
+          "image": "",
+          "credit": "",
+          "scores": { "coconut-berry": 1 }
+        },
+        {
+          "text": "Ma juba olen teisel peole, sorriii",
+          "image": "",
+          "credit": "",
+          "scores": { "monster": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Mis on su go-to drink order?",
+      "options": [
+        {
+          "text": "Jääkohv",
+          "image": "",
+          "credit": "",
+          "scores": { "sugar-free": 1 }
+        },
+        {
+          "text": "Latte",
+          "image": "",
+          "credit": "",
+          "scores": { "original": 1 }
+        },
+        {
+          "text": "Jäätee",
+          "image": "",
+          "credit": "",
+          "scores": { "peach": 1 }
+        },
+        {
+          "text": "Matcha",
+          "image": "",
+          "credit": "",
+          "scores": { "pistachio-berries": 1 }
+        },
+        {
+          "text": "Slushie",
+          "image": "",
+          "credit": "",
+          "scores": { "iced-gummy-bear": 1 }
+        },
+        {
+          "text": "Pumpkin spice latte",
+          "image": "",
+          "credit": "",
+          "scores": { "coconut-berry": 1 }
+        },
+        {
+          "text": "Sparta shot",
+          "image": "",
+          "credit": "",
+          "scores": { "monster": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Kes su lemmik youtuber on?",
+      "options": [
+        {
+          "text": "Markiplier",
+          "image": "",
+          "credit": "",
+          "scores": { "sugar-free": 1 }
+        },
+        {
+          "text": "PewDiePie",
+          "image": "",
+          "credit": "",
+          "scores": { "original": 1 }
+        },
+        {
+          "text": "Sidemen",
+          "image": "",
+          "credit": "",
+          "scores": { "peach": 1 }
+        },
+        {
+          "text": "MrBeast",
+          "image": "",
+          "credit": "",
+          "scores": { "pistachio-berries": 1 }
+        },
+        {
+          "text": "Smosh",
+          "image": "",
+          "credit": "",
+          "scores": { "iced-gummy-bear": 1 }
+        },
+        {
+          "text": "Troom Troom",
+          "image": "",
+          "credit": "",
+          "scores": { "coconut-berry": 1 }
+        },
+        {
+          "text": "Jake Paul",
+          "image": "",
+          "credit": "",
+          "scores": { "monster": 1 }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Mis loom sa oled?",
+      "options": [
+        {
+          "text": "Kass",
+          "image": "",
+          "credit": "",
+          "scores": { "sugar-free": 1 }
+        },
+        {
+          "text": "Küülik",
+          "image": "",
+          "credit": "",
+          "scores": { "original": 1 }
+        },
+        {
+          "text": "Delfiin",
+          "image": "",
+          "credit": "",
+          "scores": { "peach": 1 }
+        },
+        {
+          "text": "Paabulind",
+          "image": "",
+          "credit": "",
+          "scores": { "pistachio-berries": 1 }
+        },
+        {
+          "text": "Jääkaru",
+          "image": "",
+          "credit": "",
+          "scores": { "iced-gummy-bear": 1 }
+        },
+        {
+          "text": "Koer",
+          "image": "",
+          "credit": "",
+          "scores": { "coconut-berry": 1 }
+        },
+        {
+          "text": "Kärnkonn",
+          "image": "",
+          "credit": "",
+          "scores": { "monster": 1 }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Mis saladus sa oled?",
+      "options": [
+        {
+          "text": "Fööniks",
+          "image": "",
+          "credit": "",
+          "scores": { "sugar-free": 1 }
+        },
+        {
+          "text": "Päkapikk",
+          "image": "",
+          "credit": "",
+          "scores": { "original": 1 }
+        },
+        {
+          "text": "Lihavõtte jänes",
+          "image": "",
+          "credit": "",
+          "scores": { "peach": 1 }
+        },
+        {
+          "text": "Kuupido (Cupid)",
+          "image": "",
+          "credit": "",
+          "scores": { "pistachio-berries": 1 }
+        },
+        {
+          "text": "Jõuluvana",
+          "image": "",
+          "credit": "",
+          "scores": { "iced-gummy-bear": 1 }
+        },
+        {
+          "text": "Hambahaldjas",
+          "image": "",
+          "credit": "",
+          "scores": { "coconut-berry": 1 }
+        },
+        {
+          "text": "Bloody Mary",
+          "image": "",
+          "credit": "",
+          "scores": { "monster": 1 }
+        }
+      ]
+    }
+  ]
+}
