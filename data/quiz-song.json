@@ -1,0 +1,254 @@
+{
+  "title": "Mis K-Pop Demon Huntersi laul sa oled?",
+  "description": "Vasta küsimustele ja ma ütlen, milline K-Pop Demon Huntersi laul sa oled!",
+  "results": {
+    "golden": {
+      "title": "Sa oled Golden",
+      "description": "Oled inspireeriv. Sa tead täpselt, kes oled.",
+      "image": "images/golden.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@setsj?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>set.sj</a> on <a href='https://unsplash.com/photos/golden-sunlight-reflects-on-rippling-water-surface-GCB9yIH-VFo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "soda-pop": {
+      "title": "Sa oled Soda Pop",
+      "description": "Su rõõm on nakatav ja su vibe vastupandamatu.",
+      "image": "images/sodapop.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@theninetyfivearchive?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Harry Angara</a> on <a href='https://unsplash.com/photos/busy-asian-city-street-with-numerous-shops-and-pedestrians-6Fj2h1TNMak?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "how-its-done": {
+      "title": "Sa oled How It’s Done",
+      "description": "Sa oled intimideeriv, sind on raske kasti panna.",
+      "image": "images/how-its-done.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@theninetyfivearchive?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Harry Angara</a> on <a href='https://unsplash.com/photos/busy-asian-city-street-with-numerous-shops-and-pedestrians-6Fj2h1TNMak?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "takedown": {
+      "title": "Sa oled Takedown",
+      "description": "Sul on vihaprobleemid ja sa ei õppinud ennast kunagi produktiivselt väljendama.",
+      "image": "images/takedown.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@grstocks?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>GR Stocks</a> on <a href='https://unsplash.com/photos/grayscale-photo-of-person-holding-glass-Iq9SaJezkOE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "free": {
+      "title": "Sa oled Free",
+      "description": "Sa oled natuke ebakindel ja kogud veel julgust, et uut oma ellu lasta.",
+      "image": "images/free.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@scottagoodwill?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Scott Goodwill</a> on <a href='https://unsplash.com/photos/soft-pink-and-orange-clouds-in-a-pastel-sky-A3u8Ugv1EAw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "your-idol": {
+      "title": "Sa oled Your Idol",
+      "description": "Sa kuuluksid püramiidskeemi ja hangiks palju uusi liikmeid.",
+      "image": "images/your-idol.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@cullansmith?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Cullan Smith</a> on <a href='https://unsplash.com/photos/red-fire-digital-wallpaper-BdTtvBRhOng?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Kuidas su sõbrad sind kirjeldaksid",
+      "options": [
+        {
+          "text": "Bubbly, lõbus",
+          "image": "",
+          "credit": "",
+          "scores": { "soda-pop": 1 }
+        },
+        {
+          "text": "Julge, sõbralik",
+          "image": "",
+          "credit": "",
+          "scores": { "golden": 1 }
+        },
+        {
+          "text": "Boss bitch",
+          "image": "",
+          "credit": "",
+          "scores": { "how-its-done": 1 }
+        },
+        {
+          "text": "Karm, õel",
+          "image": "",
+          "credit": "",
+          "scores": { "takedown": 1 }
+        },
+        {
+          "text": "Manipuleeriv",
+          "image": "",
+          "credit": "",
+          "scores": { "your-idol": 1 }
+        },
+        {
+          "text": "Emotsionaalselt intelligentne",
+          "image": "",
+          "credit": "",
+          "scores": { "free": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Milline sa suhtes oled",
+      "options": [
+        {
+          "text": "Secure",
+          "image": "",
+          "credit": "",
+          "scores": { "golden": 1 }
+        },
+        {
+          "text": "Toxic",
+          "image": "",
+          "credit": "",
+          "scores": { "your-idol": 1 }
+        },
+        {
+          "text": "Lovebomb",
+          "image": "",
+          "credit": "",
+          "scores": { "soda-pop": 1 }
+        },
+        {
+          "text": "Rahulik, natuke insecure",
+          "image": "",
+          "credit": "",
+          "scores": { "free": 1 }
+        },
+        {
+          "text": "Kannad suhtes pükse",
+          "image": "",
+          "credit": "",
+          "scores": { "how-its-done": 1 }
+        },
+        {
+          "text": "Mis suhe?",
+          "image": "",
+          "credit": "",
+          "scores": { "takedown": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Milline su stiil on",
+      "options": [
+        {
+          "text": "",
+          "image": "images/rocker.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@prateek_sxn?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Prateek Saxena</a> on <a href='https://unsplash.com/photos/man-in-a-black-leather-jacket-posing-against-gray-background-BURvLqjqOH4?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "your-idol": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/trendy.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@adorecreates?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>kam myers</a> on <a href='https://unsplash.com/photos/woman-in-ed-hardy-jeans-with-handbag-on-street-8m3of3KGXKk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "soda-pop": 1 }
+        },
+        {
+          "text": "Classy, viisakas",
+          "image": "images/classy.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@aminnaderloei?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>amin naderloei</a> on <a href='https://unsplash.com/photos/woman-in-beige-dress-and-coat-holding-handbag-kOM4gPruvGg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "golden": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/alt.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@nickynoodles13?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>nicola dowie</a> on <a href='https://unsplash.com/photos/gothic-style-young-woman-posing-outdoors-in-black-and-white-ElGvsGjb_Nc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "takedown": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/business.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@huntersrace?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Hunters Race</a> on <a href='https://unsplash.com/photos/person-standing-near-the-stairs-MYbhN8KaaEc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "how-its-done": 1 }
+        },
+        {
+          "text": "Smth artsy",
+          "image": "images/artsy.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@naeimj?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>naeim jafari</a> on <a href='https://unsplash.com/photos/woman-leaning-on-window--VNyN-lZ1pE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "free": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Kas kiusamine on okei",
+      "options": [
+        {
+          "text": "Ei",
+          "image": "",
+          "credit": "",
+          "scores": { "free": 1 }
+        },
+        {
+          "text": "Loomulikult",
+          "image": "",
+          "credit": "",
+          "scores": { "takedown": 1 }
+        },
+        {
+          "text": "To take them down a peg",
+          "image": "",
+          "credit": "",
+          "scores": { "how-its-done": 1 }
+        },
+        {
+          "text": "Kui sellest kasu saab",
+          "image": "",
+          "credit": "",
+          "scores": { "your-idol": 1 }
+        },
+        {
+          "text": "Pigem ei",
+          "image": "",
+          "credit": "",
+          "scores": { "soda-pop": 1 }
+        },
+        {
+          "text": "Õpi oma sõnu kasutama",
+          "image": "",
+          "credit": "",
+          "scores": { "golden": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Mis su lemmikvärv on",
+      "options": [
+        {
+          "text": "Kuldne",
+          "image": "",
+          "credit": "",
+          "scores": { "golden": 1 }
+        },
+        {
+          "text": "Sinine",
+          "image": "",
+          "credit": "",
+          "scores": { "free": 1 }
+        },
+        {
+          "text": "Punane",
+          "image": "",
+          "credit": "",
+          "scores": { "takedown": 1 }
+        },
+        {
+          "text": "Roosa",
+          "image": "",
+          "credit": "",
+          "scores": { "soda-pop": 1 }
+        },
+        {
+          "text": "Lilla",
+          "image": "",
+          "credit": "",
+          "scores": { "how-its-done": 1 }
+        },
+        {
+          "text": "Must",
+          "image": "",
+          "credit": "",
+          "scores": { "your-idol": 1 }
+        }
+      ]
+    }
+  ]
+}
