@@ -1,0 +1,284 @@
+{
+  "title": "Milline videomäng sa oled?",
+  "description": "Vasta küsimustele ja ma ütlen, milline videomäng sa oled!",
+  "results": {
+    "minecraft": {
+      "title": "Sa oled Minecraft",
+      "description": "Sa oled kuubik. Oled mitmekülgne.",
+      "image": "images/minecraft.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Minecraft_Logo-en.svg'>Mojang Studios</a>, Public domain, via Wikimedia Commons"
+    },
+    "stardew": {
+      "title": "Sa oled Stardew Valley",
+      "description": "Sa oled whimsical ja runnid farmi nagu navyt.",
+      "image": "images/stardew.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:BrickCon_2023,_Stardew_Valley.jpg'>Zoey Mertes</a>, <a href='https://creativecommons.org/licenses/by/2.0'>CC BY 2.0</a>, via Wikimedia Commons"
+    },
+    "gta": {
+      "title": "Sa oled GTA",
+      "description": "Sa kohtled oma mängu tüdruksõpra paremini kui oma päris tüdruksõpra.",
+      "image": "images/gta.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Grand_Theft_Auto_VI_logo_(with_gradient).svg'>Rockstar Games</a>, Public domain, via Wikimedia Commons"
+    },
+    "roblox": {
+      "title": "Sa oled Roblox",
+      "description": "Sa oled laps.",
+      "image": "images/roblox.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Roblox_Logo_2022.svg'>Roblox Corporation</a>, Public domain, via Wikimedia Commons"    
+    },
+    "cod": {
+      "title": "Sa oled CoD",
+      "description": "Sulle meeldib asju lasta ja sa ilmselt haised.",
+      "image": "images/cod.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Call_of_Duty_logo_2023_2.svg'>Activision</a>, Public domain, via Wikimedia Commons"
+    },
+    "sims": {
+      "title": "Sa oled Sims",
+      "description": "Sulle meeldib disain. Oled sadistlik. ",
+      "image": "images/sims.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Logo_of_The_Sims_(2013).svg'>Electronic Arts, Inc. (EA)</a>, Public domain, via Wikimedia Commons"    
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Unistuste kodu",
+      "options": [
+        {
+          "text": "",
+          "image": "images/cottage.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@birminghammuseumstrust?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Birmingham Museums Trust</a> on <a href='https://unsplash.com/photos/child-and-woman-at-the-gate-near-cabin-and-trees-painting-4lDX-xTLl3Q?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "stardew": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/box.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@framesforyourheart?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Frames For Your Heart</a> on <a href='https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-mR1CIDduGLc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "minecraft": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/penthouse.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@moritzbruder?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Moritz Bruder</a> on <a href='https://unsplash.com/photos/furniture-inside-room-with-full-glass-windows-gvCLog5Yv00?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "gta": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/castle.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@rmaedavis?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Rachel Davis</a> on <a href='https://unsplash.com/photos/white-concrete-castle-in-green-field-tn2rBnvIl9I?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "sims": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/treehouse.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@ford_563?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>K F</a> on <a href='https://unsplash.com/photos/wooden-treehouse-with-a-bridge-in-a-forest--fYXsOPKD8g?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "roblox": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/hut.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@danieljschwarz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Daniel J. Schwarz</a> on <a href='https://unsplash.com/photos/brown-wooden-house-in-the-middle-of-green-trees-BNX4W2GDjxI?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "cod": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Su lemmiktoit",
+      "options": [
+        {
+          "text": "Beebitoit",
+          "image": "",
+          "credit": "",
+          "scores": { "roblox": 1 }
+        },
+        {
+          "text": "Leftovers",
+          "image": "",
+          "credit": "",
+          "scores": { "sims": 1 }
+        },
+        {
+          "text": "Mikroka pitsa",
+          "image": "",
+          "credit": "",
+          "scores": { "cod": 1 }
+        },
+        {
+          "text": "Vegan burger",
+          "image": "",
+          "credit": "",
+          "scores": { "stardew": 1 }
+        },
+        {
+          "text": "Mitte vegan burger",
+          "image": "",
+          "credit": "",
+          "scores": { "minecraft": 1 }
+        },
+        {
+          "text": "Kiirnuudlid",
+          "image": "",
+          "credit": "",
+          "scores": { "gta": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Mis on elu eesmärk",
+      "options": [
+        {
+          "text": "Raha",
+          "image": "",
+          "credit": "",
+          "scores": { "gta": 1 }
+        },
+        {
+          "text": "Lillede korjamine",
+          "image": "",
+          "credit": "",
+          "scores": { "minecraft": 1 }
+        },
+        {
+          "text": "Ilu",
+          "image": "",
+          "credit": "",
+          "scores": { "sims": 1 }
+        },
+        {
+          "text": "Sõda",
+          "image": "",
+          "credit": "",
+          "scores": { "cod": 1 }
+        },
+        {
+          "text": "Hobi farmimine",
+          "image": "",
+          "credit": "",
+          "scores": { "stardew": 1 }
+        },
+        {
+          "text": "Lapsed",
+          "image": "",
+          "credit": "",
+          "scores": { "roblox": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Kui tihti sa pesus käid",
+      "options": [
+        {
+          "text": "Huh?",
+          "image": "",
+          "credit": "",
+          "scores": { "cod": 1 }
+        },
+        {
+          "text": "Siis kui emme vanni teeb",
+          "image": "",
+          "credit": "",
+          "scores": { "roblox": 1 }
+        },
+        {
+          "text": "2 korda päevas",
+          "image": "",
+          "credit": "",
+          "scores": { "stardew": 1 }
+        },
+        {
+          "text": "Kas ujumas käimine loeb?",
+          "image": "",
+          "credit": "",
+          "scores": { "gta": 1 }
+        },
+        {
+          "text": "Iga päev",
+          "image": "",
+          "credit": "",
+          "scores": { "sims": 1 }
+        },
+        {
+          "text": "Iga kord kui ma mängu beatin",
+          "image": "",
+          "credit": "",
+          "scores": { "minecraft": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Palju samme sa päevas teed?",
+      "options": [
+        {
+          "text": "Kas treadmill loeb?",
+          "image": "",
+          "credit": "",
+          "scores": { "stardew": 1 }
+        },
+        {
+          "text": "Vetsu ja tagasi",
+          "image": "",
+          "credit": "",
+          "scores": { "cod": 1 }
+        },
+        {
+          "text": "Kooli ja tagasi",
+          "image": "",
+          "credit": "",
+          "scores": { "roblox": 1 }
+        },
+        {
+          "text": "30 000 (mängus)",
+          "image": "",
+          "credit": "",
+          "scores": { "gta": 1 }
+        },
+        {
+          "text": "Vähemalt 5000",
+          "image": "",
+          "credit": "",
+          "scores": { "sims": 1 }
+        },
+        {
+          "text": "Paarsada kuni paartuhat",
+          "image": "",
+          "credit": "",
+          "scores": { "minecraft": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Mitut videomängu sa mängid",
+      "options": [
+        {
+          "text": "3",
+          "image": "",
+          "credit": "",
+          "scores": { "stardew": 1, "minecraft": 1, "sims": 1 }
+        },
+        {
+          "text": "1",
+          "image": "",
+          "credit": "",
+          "scores": { "cod": 1 }
+        },
+        {
+          "text": "2",
+          "image": "",
+          "credit": "",
+          "scores": { "gta": 1 }
+        },
+        {
+          "text": "10 000",
+          "image": "",
+          "credit": "",
+          "scores": { "roblox": 1 }
+        }
+      ]
+    }
+  ]
+}

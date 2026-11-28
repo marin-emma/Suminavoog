@@ -1,0 +1,254 @@
+{
+  "title": "Mis erakond sa oled?",
+  "description": "Vasta küsimustele ja ma ütlen, milline erakond sa oled!",
+  "results": {
+    "ekre": {
+      "title": "Sa oled EKRE",
+      "description": "Sa oled konserv ja õukonna narr. Võibolla on aeg arsti juurde pöörduda.",
+      "image": "images/ekre.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:EKRE_logo.png'>Ладошки семейный Монтессори - клуб</a>, <a href='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</a>, via Wikimedia Commons"
+    },
+    "sotsdem": {
+      "title": "Sa oled Sotsiaaldemokraadid",
+      "description": "Sa oled ilmselt normaalne. Palun hääleta hästi.",
+      "image": "images/sotsdem.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Socialni_demokrati_Logo.svg'>Socialni demokrati (SD)</a>, Public domain, via Wikimedia Commons"
+    },
+    "ref": {
+      "title": "Sa oled Reformierakond",
+      "description": "Sa oled vana ja vaba. Su peas on ilmselt sama ajurakk mituteist aastat troonil olnud.",
+      "image": "images/ref.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Flag_of_the_Estonian_Reform_Party.svg'>Own work\nEstonian Reform Party</a>, Public domain, via Wikimedia Commons"
+    },
+    "kesk": {
+      "title": "Sa oled Keskerakond",
+      "description": "Sa oled ebakompetentne ja vähem oluline kui Jüri Ratta sotsiaalmeedia.",
+      "image": "images/kesk.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Logo_of_the_Estonian_Centre_Party.svg'>Eesti Keskerakond</a>, CC0, via Wikimedia Commons"
+    },
+    "rohelised": {
+      "title": "Sa oled Rohelised",
+      "description": "Sa oled olemas, aga keegi ei tea, mida sa teed.",
+      "image": "images/rohelised.png",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Eestimaa_Rohelised_Logo.svg'>See page for author</a>, Public domain, via Wikimedia Commons"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Millal sa viimati muru katsusid",
+      "options": [
+        {
+          "text": "Siis kui rohi oli rohelisem",
+          "image": "",
+          "credit": "",
+          "scores": { "ekre": 1 }
+        },
+        {
+          "text": "Praegu",
+          "image": "",
+          "credit": "",
+          "scores": { "rohelised": 1 }
+        },
+        {
+          "text": "Siis kui veel tasuta sai",
+          "image": "",
+          "credit": "",
+          "scores": { "sotsdem": 1 }
+        },
+        {
+          "text": "Siis kui ma veel koduuksest välja minna oskasin",
+          "image": "",
+          "credit": "",
+          "scores": { "kesk": 1 }
+        },
+        {
+          "text": "Siis kui ma jalgrattaga kukkusin",
+          "image": "",
+          "credit": "",
+          "scores": { "ref": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Mis su lemmikvärv on",
+      "options": [
+        {
+          "text": "Sini-must-valge",
+          "image": "",
+          "credit": "",
+          "scores": { "ekre": 0.1 }
+        },
+        {
+          "text": "Metsaroheline",
+          "image": "",
+          "credit": "",
+          "scores": { "rohelised": 0.1 }
+        },
+        {
+          "text": "Neoon roheline",
+          "image": "",
+          "credit": "",
+          "scores": { "kesk": 0.1 }
+        },
+        {
+          "text": "Punane",
+          "image": "",
+          "credit": "",
+          "scores": { "sotsdem": 0.1 }
+        },
+        {
+          "text": "Kollane",
+          "image": "",
+          "credit": "",
+          "scores": { "ref": 0.1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Mis on su lemmik peakate",
+      "options": [
+        {
+          "text": "Kaabu",
+          "image": "",
+          "credit": "",
+          "scores": { "ekre": 1 }
+        },
+        {
+          "text": "Läkiläki",
+          "image": "",
+          "credit": "",
+          "scores": { "kesk": 1 }
+        },
+        {
+          "text": "Lillepärg",
+          "image": "",
+          "credit": "",
+          "scores": { "rohelised": 1 }
+        },
+        {
+          "text": "Barett",
+          "image": "",
+          "credit": "",
+          "scores": { "sotsdem": 1 }
+        },
+        {
+          "text": "Tagurpidi nokamüts",
+          "image": "",
+          "credit": "",
+          "scores": { "ref": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Lemmik eesti kuulsus",
+      "options": [
+        {
+          "text": "Brigitte Susanne Hunt",
+          "image": "",
+          "credit": "",
+          "scores": { "ekre": 1 }
+        },
+        {
+          "text": "Marco Tasane",
+          "image": "",
+          "credit": "",
+          "scores": { "kesk": 1 }
+        },
+        {
+          "text": "Luisa Värk",
+          "image": "",
+          "credit": "",
+          "scores": { "ref": 1 }
+        },
+        {
+          "text": "Taara (jumal)",
+          "image": "",
+          "credit": "",
+          "scores": { "rohelised": 1 }
+        },
+        {
+          "text": "Pääru Oja",
+          "image": "",
+          "credit": "",
+          "scores": { "sotsdem": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Lemmik eesti muusik",
+      "options": [
+        {
+          "text": "Arvo Pärt",
+          "image": "",
+          "credit": "",
+          "scores": { "ekre": 1 }
+        },
+        {
+          "text": "Trad.Attack!",
+          "image": "",
+          "credit": "",
+          "scores": { "rohelised": 1 }
+        },
+        {
+          "text": "Argpart",
+          "image": "",
+          "credit": "",
+          "scores": { "sotsdem": 1 }
+        },
+        {
+          "text": "Uku Suviste",
+          "image": "",
+          "credit": "",
+          "scores": { "kesk": 1 }
+        },
+        {
+          "text": "Elina Nechayeva",
+          "image": "",
+          "credit": "",
+          "scores": { "ref": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Lemmik eesti ujumiskohad",
+      "options": [
+        {
+          "text": "Raba",
+          "image": "",
+          "credit": "",
+          "scores": { "rohelised": 1 }
+        },
+        {
+          "text": "Pirita rand",
+          "image": "",
+          "credit": "",
+          "scores": { "ref": 1 }
+        },
+        {
+          "text": "Anne kanal",
+          "image": "",
+          "credit": "",
+          "scores": { "ekre": 1 }
+        },
+        {
+          "text": "Pärnu rand",
+          "image": "",
+          "credit": "",
+          "scores": { "sotsdem": 1 }
+        },
+        {
+          "text": "Emajõgi",
+          "image": "",
+          "credit": "",
+          "scores": { "kesk": 1 }
+        }
+      ]
+    }
+  ]
+}

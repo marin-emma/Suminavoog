@@ -2,8 +2,8 @@
   {
     "id": "myth",                          
     "title": "Milline mütoloogiline olend sa oled?",        
-    "image": "images/main-character.jpg",
-    "credit": "veebileht.com"         
+    "image": "images/",
+    "credit": ""         
   },
   {
     "id": "crocs",                   
@@ -72,12 +72,6 @@
     "credit": "credit"
   },
   {
-    "id": "tropes",                   
-    "title": "Mis character trope sa oled?",
-    "image": "images/",
-    "credit": "credit"
-  },
-  {
     "id": "kergejoustik",                   
     "title": "Mis kergejõustiku ala sa oled?",
     "image": "images/",
@@ -96,38 +90,38 @@
     "credit": "credit"
   },
   {
-    "id": "quiz-",                   
-    "title": "",
+    "id": "videogame",                   
+    "title": "Milline videomäng sa oled?",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-",                   
-    "title": "",
+    "id": "politics",                   
+    "title": "Mis erakond sa oled?",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-",                   
-    "title": "",
+    "id": "redbull",                   
+    "title": "Milline Red Bull sa oled?",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-",                   
-    "title": "",
+    "id": "song",                   
+    "title": "Mis K-Pop Demon Huntersi laul sa oled?",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-",                   
-    "title": "",
+    "id": "boardgame",                   
+    "title": "Milline lauamäng sa oled?",
     "image": "images/",
     "credit": "credit"
   },
   {
-    "id": "quiz-",                   
-    "title": "",
+    "id": "demon",                   
+    "title": "Mis K-Pop Demon Huntersi tegelane sa oled?",
     "image": "images/",
     "credit": "credit"
   },

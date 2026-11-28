@@ -1,0 +1,296 @@
+{
+  "title": "Milline lauamäng sa oled?",
+  "description": "Vasta küsimustele ja ma ütlen, milline lauamäng sa oled!",
+  "results": {
+    "uno": {
+      "title": "Sa oled UNO",
+      "description": "Sa oled professionaalne ragebaiter ja see ei meeldi kellelegi.",
+      "image": "images/uno.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Uno.jpg'>en:User:Cburnett</a>, Public domain, via Wikimedia Commons"
+    },
+    "alias": {
+      "title": "Sa oled Alias",
+      "description": "Sa oled hea yapper, sulle meeldib panna teisi sind kuulama.",
+      "image": "images/alias.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Gaymers%27_night_-_pelataan_homona,_Nuorten_Pride_2015_(museovirasto.327575D7F79F993013A8A3ABABC0F541).jpg'>Melissa Hanhirova</a>, <a href='https://creativecommons.org/licenses/by/4.0'>CC BY 4.0</a>, via Wikimedia Commons"
+    },
+    "scrabble": {
+      "title": "Sa oled Scrabble",
+      "description": "Sa oled tähenärija ja ninatark. Sul pole ilmselt palju sõpru.",
+      "image": "images/scrabble.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Scrabble_Finnish_game.jpg'>Apinanaivot</a>, CC0, via Wikimedia Commons"
+    },
+    "monopoly": {
+      "title": "Sa oled Monopoly",
+      "description": "Sa oled kapitalist. Sul on probleeme. Sa lähed inimestega palju tülli.",
+      "image": "images/monopoly.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Monopoly_board_on_white_bg.jpg'>Fir0002/Flagstaffotos</a>, <a href='http://www.gnu.org/licenses/old-licenses/fdl-1.2.html'>GFDL 1.2</a>, via Wikimedia Commons"
+    },
+    "male": {
+      "title": "Sa oled Male",
+      "description": "Sa oled intelligentne ja rahulik. Sa jätad endast natuke hirmsa mulje.",
+      "image": "images/chess.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Chess_board_with_pieces.jpg'>Aaaatu</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>, via Wikimedia Commons"
+    },
+    "jenga": {
+      "title": "Sa oled Jenga",
+      "description": "Sul on halb tasakaal. Sa oled päris kohmakas.",
+      "image": "images/jenga.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Jenga_distorted.jpg'>Guma89</a>, <a href='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</a>, via Wikimedia Commons"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Sa oled emotsionaalselt stabiilne",
+      "options": [
+        {
+          "text": "Ja",
+          "image": "",
+          "credit": "",
+          "scores": { "male": 1 }
+        },
+        {
+          "text": "Ei",
+          "image": "",
+          "credit": "",
+          "scores": { "jenga": 1 }
+        },
+        {
+          "text": "Vahepeal",
+          "image": "",
+          "credit": "",
+          "scores": { "alias": 1 }
+        },
+        {
+          "text": "Võibolla",
+          "image": "",
+          "credit": "",
+          "scores": { "uno": 1 }
+        },
+        {
+          "text": "Ei oska vastata",
+          "image": "",
+          "credit": "",
+          "scores": { "monopoly": 1 }
+        },
+        {
+          "text": "Küsi mu psühholoogilt",
+          "image": "",
+          "credit": "",
+          "scores": { "scrabble": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Millist ideoloogiat sa usud",
+      "options": [
+        {
+          "text": "Kommunism",
+          "image": "",
+          "credit": "",
+          "scores": { "male": 1 }
+        },
+        {
+          "text": "Kapitalism",
+          "image": "",
+          "credit": "",
+          "scores": { "monopoly": 1 }
+        },
+        {
+          "text": "Sotsiaaldemokraatia",
+          "image": "",
+          "credit": "",
+          "scores": { "alias": 1 }
+        },
+        {
+          "text": "Anarhia",
+          "image": "",
+          "credit": "",
+          "scores": { "jenga": 1 }
+        },
+        {
+          "text": "Fašism",
+          "image": "",
+          "credit": "",
+          "scores": { "uno": 1 }
+        },
+        {
+          "text": "Konservatism",
+          "image": "",
+          "credit": "",
+          "scores": { "scrabble": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Mis annab su elule tähendust",
+      "options": [
+        {
+          "text": "Raha",
+          "image": "",
+          "credit": "",
+          "scores": { "monopoly": 1 }
+        },
+        {
+          "text": "Teiste läbikukkumised",
+          "image": "",
+          "credit": "",
+          "scores": { "jenga": 1 }
+        },
+        {
+          "text": "Teiste provotseerimine",
+          "image": "",
+          "credit": "",
+          "scores": { "uno": 1 }
+        },
+        {
+          "text": "Teistest targem olemine",
+          "image": "",
+          "credit": "",
+          "scores": { "scrabble": 1 }
+        },
+        {
+          "text": "Vaikus ja rahu",
+          "image": "",
+          "credit": "",
+          "scores": { "male": 1 }
+        },
+        {
+          "text": "Sõprus",
+          "image": "",
+          "credit": "",
+          "scores": { "alias": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Kuidas su sõbrad sind kirjeldaksid?",
+      "options": [
+        {
+          "text": "Tüütu",
+          "image": "",
+          "credit": "",
+          "scores": { "scrabble": 1 }
+        },
+        {
+          "text": "Ahne",
+          "image": "",
+          "credit": "",
+          "scores": { "monopoly": 1 }
+        },
+        {
+          "text": "Tark",
+          "image": "",
+          "credit": "",
+          "scores": { "male": 1 }
+        },
+        {
+          "text": "Väljendusrikas",
+          "image": "",
+          "credit": "",
+          "scores": { "alias": 1 }
+        },
+        {
+          "text": "Silly goose",
+          "image": "",
+          "credit": "",
+          "scores": { "uno": 1 }
+        },
+        {
+          "text": "Kohmakas",
+          "image": "",
+          "credit": "",
+          "scores": { "jenga": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Mis on su suurim viga",
+      "options": [
+        {
+          "text": "Uhkus",
+          "image": "",
+          "credit": "",
+          "scores": { "scrabble": 1 }
+        },
+        {
+          "text": "Nõudlikkus",
+          "image": "",
+          "credit": "",
+          "scores": { "male": 1 }
+        },
+        {
+          "text": "Kangekaelsus",
+          "image": "",
+          "credit": "",
+          "scores": { "uno": 1 }
+        },
+        {
+          "text": "Laiskus",
+          "image": "",
+          "credit": "",
+          "scores": { "jenga": 1 }
+        },
+        {
+          "text": "Ülbus",
+          "image": "",
+          "credit": "",
+          "scores": { "monopoly": 1 }
+        },
+        {
+          "text": "Segane",
+          "image": "",
+          "credit": "",
+          "scores": { "alias": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Mis su lemmik brainrot on",
+      "options": [
+        {
+          "text": "Bombardiro crocodilo",
+          "image": "",
+          "credit": "",
+          "scores": { "jenga": 1 }
+        },
+        {
+          "text": "67",
+          "image": "",
+          "credit": "",
+          "scores": { "scrabble": 1 }
+        },
+        {
+          "text": "Tung tung sahur",
+          "image": "",
+          "credit": "",
+          "scores": { "male": 1 }
+        },
+        {
+          "text": "Ballerina cappuchina",
+          "image": "",
+          "credit": "",
+          "scores": { "uno": 1 }
+        },
+        {
+          "text": "Rizz",
+          "image": "",
+          "credit": "",
+          "scores": { "alias": 1 }
+        },
+        {
+          "text": "Skibidi",
+          "image": "",
+          "credit": "",
+          "scores": { "monopoly": 1 }
+        }
+      ]
+    }
+  ]
+}

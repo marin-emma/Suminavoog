@@ -1,0 +1,242 @@
+{
+  "title": "Mis K-Pop Demon Huntersi tegelane sa oled?",
+  "description": "Vasta küsimustele ja ma ütlen, milline K-Pop Demon Huntersi tegelane sa oled!",
+  "results": {
+    "rumi": {
+      "title": "Sa oled Rumi",
+      "description": "Sa oled väga pühendunud, töökas ja kohusetundlik. Oled kangekaelne ja autoriteetne. Sa oled sügavalt kaastundlik ja isetu ning peidad enda raskusi.",
+      "image": "images/rumi.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Arden_Cho_at_Los_Angeles_Comic_Con_2026-3.jpg'>Kevin Paul</a>, <a href='https://creativecommons.org/licenses/by/4.0'>CC BY 4.0</a>, via Wikimedia Commons"
+    },
+    "mira": {
+      "title": "Sa oled Mira",
+      "description": "Sul on suured lihased ja karm välimus. Oled äärmiselt otsekohene ja aus ning tihti sarkastiline. Sinus on ka viha, kuid su entusiasm ja energia käivad sellest üle. Sa oled väga tähelepanelik ja märkad väikseid detaile.",
+      "image": "images/mira.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:May_Hong_at_Los_Angeles_Comic_Con_2026-3.jpg'>Kevin Paul</a>, <a href='https://creativecommons.org/licenses/by/4.0'>CC BY 4.0</a>, via Wikimedia Commons"
+    },
+    "zoey": {
+      "title": "Sa oled Zoey",
+      "description": "Sa oled erk, särav ja energiline. Sa ei karda näidata oma tundeid ja armastust. Usud inimestest parimat ning võid selle tõttu vahel naiivne olla. Su tähelepanu hajub kergesti. Sinu seltskonnas on alati meeldiv viibida.",
+      "image": "images/zoey.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Ji-young_Yoo_at_LAKFF_2026-1.jpg'>Kevin Paul</a>, <a href='https://creativecommons.org/licenses/by/4.0'>CC BY 4.0</a>, via Wikimedia Commons"
+    },
+    "jinu": {
+      "title": "Sa oled Jinu",
+      "description": "Oled intelligentne ja karismaatiline, kuid vahel kahepalgeline. Olulisel kohal on sinu enda huvid. Sa proovid ennast näidata parimas valguses ja inimestel on tõelist sind raske tundma õppida. Oled loverboy.",
+      "image": "images/jinu.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:20211011%E2%80%94Paul_Ahn_%EC%95%88%ED%9A%A8%EC%84%AD,_photo_shoot,_Marie_Claire_Korea_(02m19s)_(cropped).jpg'>Marie Claire Korea</a>, <a href='https://creativecommons.org/licenses/by/3.0'>CC BY 3.0</a>, via Wikimedia Commons"
+    },
+    "bobby": {
+      "title": "Sa oled Bobby",
+      "description": "Sa võid vahel väga kohmakas olla, aga sinu peale saab alati loota. Sa võtad oma tööd väga tõsiselt. Sa oled tõeliselt optimistlik ja suudad stressiolukordades rahulikuks jääda.",
+      "image": "images/bobby.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:Ken_Jeong_by_Gage_Skidmore.jpg'>Gage Skidmore</a>, <a href='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</a>, via Wikimedia Commons"
+    },
+    "derpy": {
+      "title": "Sa oled Derpy",
+      "description": "Sa oled lihtsameelne, aga sõbralik. Sa oled päris kassilaadne. Oled väga lojaalne ja südamlik. Kipud olema ekstsentriline.",
+      "image": "images/derpy.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@fit_foodie_fotographer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Kartik Iyer</a> on <a href='https://unsplash.com/photos/brown-and-black-tiger-showing-tongue-DJ4vjcD0s0I?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "gwi-ma": {
+      "title": "Sa oled Gwi-Ma",
+      "description": "Sa oled manipuleeriv, sadistlik, võimuahne, terroristlik türann.",
+      "image": "images/gwi-ma.jpg",
+      "credit": "<a href='https://commons.wikimedia.org/wiki/File:%EC%9D%B4%EB%B3%91%ED%97%8C_-_%EC%96%B4%EC%A9%94%EC%88%98%EA%B0%80%EC%97%86%EB%8B%A4.jpg'>Kevin Paul</a>, <a href='https://creativecommons.org/licenses/by/4.0'>CC BY 4.0</a>, via Wikimedia Commons"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Mis sa arvad tapmisest",
+      "options": [
+        {
+          "text": "Ja.",
+          "image": "",
+          "credit": "",
+          "scores": { "gwi-ma": 1 }
+        },
+        {
+          "text": "Midaaaa?",
+          "image": "",
+          "credit": "",
+          "scores": { "bobby": 1 }
+        },
+        {
+          "text": "Kui sunnitakse",
+          "image": "",
+          "credit": "",
+          "scores": { "jinu": 1 }
+        },
+        {
+          "text": "Ja, deemonite",
+          "image": "",
+          "credit": "",
+          "scores": { "mira": 1, "zoey": 1, "rumi": 1 }
+        },
+        {
+          "text": "Kogemata on okei",
+          "image": "",
+          "credit": "",
+          "scores": { "derpy": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Mis on su type",
+      "options": [
+        {
+          "text": "Lihtsasti manipuleeritavad",
+          "image": "",
+          "credit": "",
+          "scores": { "gwi-ma": 1 }
+        },
+        {
+          "text": "“I can fix him/her”",
+          "image": "",
+          "credit": "",
+          "scores": { "jinu": 1, "rumi": 1 }
+        },
+        {
+          "text": "Rikas",
+          "image": "",
+          "credit": "",
+          "scores": { "bobby": 1 }
+        },
+        {
+          "text": "Kõhulihased",
+          "image": "",
+          "credit": "",
+          "scores": { "zoey": 1 }
+        },
+        {
+          "text": "Keegi, kes mind sotsmeedias postitab",
+          "image": "",
+          "credit": "",
+          "scores": { "derpy": 1 }
+        },
+        {
+          "text": "Hottie, kes hoiab suu kinni",
+          "image": "",
+          "credit": "",
+          "scores": { "mira": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Kas sul on tätokad/ kas sa tahaksid tätokaid",
+      "options": [
+        {
+          "text": "Olen nendega kaetud",
+          "image": "",
+          "credit": "",
+          "scores": { "derpy": 1 }
+        },
+        {
+          "text": "Ma olen allergiline",
+          "image": "",
+          "credit": "",
+          "scores": { "gwi-ma": 1 }
+        },
+        {
+          "text": "Temporary tätokaid teen",
+          "image": "",
+          "credit": "",
+          "scores": { "bobby": 1 }
+        },
+        {
+          "text": "Mul on oma bestie/partneriga matchiv",
+          "image": "",
+          "credit": "",
+          "scores": { "mira": 1, "zoey": 1 }
+        },
+        {
+          "text": "Selle ühe situationshipi jaoks",
+          "image": "",
+          "credit": "",
+          "scores": { "rumi": 1, "jinu": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Kas sa oskad laulda",
+      "options": [
+        {
+          "text": "Kooris baritoni",
+          "image": "",
+          "credit": "",
+          "scores": { "gwi-ma": 1 }
+        },
+        {
+          "text": "Pole proovinud",
+          "image": "",
+          "credit": "",
+          "scores": { "derpy": 1 }
+        },
+        {
+          "text": "Ainult karaoket",
+          "image": "",
+          "credit": "",
+          "scores": { "bobby": 1 }
+        },
+        {
+          "text": "Ainult siis kui mul depressiooni pole",
+          "image": "",
+          "credit": "",
+          "scores": { "rumi": 1 }
+        },
+        {
+          "text": "Vahepeal",
+          "image": "",
+          "credit": "",
+          "scores": { "jinu": 1 }
+        },
+        {
+          "text": "Ja.",
+          "image": "",
+          "credit": "",
+          "scores": { "zoey": 1, "mira": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Mis su bodycount on",
+      "options": [
+        {
+          "text": "Ma pole kedagi tapnud",
+          "image": "",
+          "credit": "",
+          "scores": { "bobby": 1 }
+        },
+        {
+          "text": "Liiga palju, et kokku lugeda",
+          "image": "",
+          "credit": "",
+          "scores": { "gwi-ma": 1 }
+        },
+        {
+          "text": "Liiga piinlik, et öelda",
+          "image": "",
+          "credit": "",
+          "scores": { "jinu": 1 }
+        },
+        {
+          "text": "Huh?",
+          "image": "",
+          "credit": "",
+          "scores": { "derpy": 1 }
+        },
+        {
+          "text": "Päris mitu deemonit",
+          "image": "",
+          "credit": "",
+          "scores": { "mira": 1, "zoey": 1, "rumi": 1 }
+        }
+      ]
+    }
+  ]
+}

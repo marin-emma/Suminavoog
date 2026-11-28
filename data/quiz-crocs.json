@@ -1,0 +1,260 @@
+{
+  "title": "Milline crocs sa oled?",
+  "description": "Vasta küsimustele ja ma ütlen, milline Crocs sa oled!",
+  "results": {
+    "mary-jane": {
+      "title": "Sa oled Crocs Mary Jane",
+      "description": "Sa oled viisakas ja armas.",
+      "image": "images/mary-jane.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@soujest?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Sou Jest</a> on <a href='https://unsplash.com/photos/feet-in-red-and-two-toned-shoes-on-green-grass-kXdKqps3wK8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "velvet-clog": {
+      "title": "Sa oled Crocs Velvet Clog",
+      "description": "Sa oled ülestimuleeriv.",
+      "image": "images/velvet-clog.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@montylov?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>MontyLov</a> on <a href='https://unsplash.com/photos/red-textile-HyBXy5PHQR8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "classic-clog": {
+      "title": "Sa oled Crocs Classic Clog",
+      "description": "Sa oled tuttav ja usaldusväärne.",
+      "image": "images/classic-clog.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@pray4bokeh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Bruno Guerrero</a> on <a href='https://unsplash.com/photos/a-person-wearing-a-green-clogger-shoe-in-a-park-Qv9F1y2GHk8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "platform-clog": {
+      "title": "Sa oled Crocs Platform Clog",
+      "description": "Sa oled lahe ja stiilne.",
+      "image": "images/platform-clog.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@solarmonkey123?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>rakesh kumar</a> on <a href='https://unsplash.com/photos/a-pair-of-pink-shoes-sitting-in-the-grass-OU8UY0Mj7XM?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "fleece-lined-clog": {
+      "title": "Sa oled Crocs Fleece Lined Clog",
+      "description": "Sa oled arukas ja praktiline.",
+      "image": "images/fleece-lined-clog.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@taylor_friehl?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Taylor Friehl</a> on <a href='https://unsplash.com/photos/high-angle-photography-of-brown-snow-boots-GECuMACeuYs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "flatform-flip": {
+      "title": "Sa oled Crocs Flatform Flip",
+      "description": "Sa oled seiklushimuline ja lõbus.",
+      "image": "images/flatform-flip.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@nandomrtns?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Nando Martins</a> on <a href='https://unsplash.com/photos/a-pair-of-white-slippers-sitting-on-top-of-a-lush-green-field-Q2FWiTgJruA?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    },
+    "classic-cozzzy-slipper": {
+      "title": "Sa oled külmavereline ja muhe.",
+      "description": "",
+      "image": "images/classic-cozzzy-slipper.jpg",
+      "credit": "Photo by <a href='https://unsplash.com/@jausions?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Philippe Jausions</a> on <a href='https://unsplash.com/photos/person-wearing-white-bedroom-slippers-uMJ3Sns-4Rw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Vali oma lemmik aastaaeg",
+      "options": [
+        {
+          "text": "Kevad",
+          "scores": { "mary-jane": 1 }
+        },
+        {
+          "text": "Kõik",
+          "scores": { "velvet-clog": 1 }
+        },
+        {
+          "text": "Suvi",
+          "scores": { "classic-clog": 1, "flatform-flip": 1 }
+        },
+        {
+          "text": "Sügis",
+          "scores": { "platform-clog": 1 }
+        },
+        {
+          "text": "Talv",
+          "scores": { "fleece-lined-clog": 1, "classic-cozzzy-slipper": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Vali oma lemmik outfit",
+      "options": [
+        {
+          "text": "",
+          "image": "images/dress.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@chapmanjordy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Jordy Chapman</a> on <a href='https://unsplash.com/photos/woman-standing-on-grass-field-facing-the-sea-rQKs0BHasWE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "mary-jane": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/velvet.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@chapmanjordy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Jordy Chapman</a> on <a href='https://unsplash.com/photos/woman-standing-on-grass-field-facing-the-sea-rQKs0BHasWE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "velvet-clog": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/graphic.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@sammyswae?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>sammy swae</a> on <a href='https://unsplash.com/photos/two-people-wearing-matching-t-shirts-with-graphic-design-JnPfqAex4Fw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "classic-clog": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/ball.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@quincesperfectos?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>QUINCES PERFECTOS</a> on <a href='https://unsplash.com/photos/woman-in-a-light-blue-ball-gown-at-night-rWhXjQ0Mf40?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "platform-clog": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/overalls.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@annaelise?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Anna Hecker</a> on <a href='https://unsplash.com/photos/woman-in-blue-denim-jeans-standing-on-green-grass-field-during-daytime-SQIE3WCsbEo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "fleece-lined-clog": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/hawaiian.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@rex_filmer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Zhen Yao</a> on <a href='https://unsplash.com/photos/elderly-person-on-a-crosswalk-in-a-bustling-street-market-dKRs7imCvI0?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "flatform-flip": 1 }
+        },
+        {
+          "text": "",
+          "image": "images/christian.jpg",
+          "credit": "Photo by <a href='https://unsplash.com/@rex_filmer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Zhen Yao</a> on <a href='https://unsplash.com/photos/elderly-person-on-a-crosswalk-in-a-bustling-street-market-dKRs7imCvI0?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a>",
+          "scores": { "classic-cozzzy-slipper": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Vali oma lemmik animeeritud film",
+      "options": [
+        {
+          "text": "Imelised",
+          "scores": { "mary-jane": 1 }
+        },
+        {
+          "text": "Polaarekspress",
+          "scores": { "velvet-clog": 1 }
+        },
+        {
+          "text": "Kollide kompanii",
+          "scores": { "classic-clog": 1 }
+        },
+        {
+          "text": "Saabastega kass",
+          "scores": { "platform-clog": 1 }
+        },
+        {
+          "text": "Jääaeg",
+          "scores": { "fleece-lined-clog": 1 }
+        },
+        {
+          "text": "Metsikud lained",
+          "scores": { "flatform-flip": 1 }
+        },
+        {
+          "text": "Viis legendi",
+          "scores": { "classic-cozzzy-slipper": 1 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Vali oma lemmik värv",
+      "options": [
+        {
+          "text": "Roheline",
+          "scores": { "mary-jane": 1 }
+        },
+        {
+          "text": "Oranž",
+          "scores": { "velvet-clog": 1 }
+        },
+        {
+          "text": "Lilla",
+          "scores": { "classic-clog": 1 }
+        },
+        {
+          "text": "Roosa",
+          "scores": { "platform-clog": 1 }
+        },
+        {
+          "text": "Sinine",
+          "scores": { "fleece-lined-clog": 1 }
+        },
+        {
+          "text": "Kollane",
+          "scores": { "flatform-flip": 1 }
+        },
+        {
+          "text": "Pruun",
+          "scores": { "classic-cozzzy-slipper": 1 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Kui pikk sa spirituaalselt oled?",
+      "options": [
+        {
+          "text": "Keskmise modelli pikkune",
+          "scores": { "mary-jane": 1 }
+        },
+        {
+          "text": "Pikk, trust",
+          "scores": { "velvet-clog": 1 }
+        },
+        {
+          "text": "6’5",
+          "scores": { "classic-clog": 1 }
+        },
+        {
+          "text": "2 meetrit",
+          "scores": { "platform-clog": 1 }
+        },
+        {
+          "text": "Eesti keskmine 200a tagasi",
+          "scores": { "fleece-lined-clog": 1 }
+        },
+        {
+          "text": "Eesti keskmine",
+          "scores": { "flatform-flip": 1 }
+        },
+        {
+          "text": "Pole mõõtnud",
+          "scores": { "classic-cozzzy-slipper": 1 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Millisena teised sind näevad",
+      "options": [
+        {
+          "text": "Viisakana",
+          "scores": { "mary-jane": 1 }
+        },
+        {
+          "text": "Erakuna",
+          "scores": { "velvet-clog": 1 }
+        },
+        {
+          "text": "Lahedana",
+          "scores": { "classic-clog": 1 }
+        },
+        {
+          "text": "Veidrana",
+          "scores": { "platform-clog": 1 }
+        },
+        {
+          "text": "Asjalikuna",
+          "scores": { "fleece-lined-clog": 1 }
+        },
+        {
+          "text": "Chill guy’na",
+          "scores": { "flatform-flip": 1 }
+        },
+        {
+          "text": "Basic’una",
+          "scores": { "classic-cozzzy-slipper": 1 }
+        }
+      ]
+    }
+  ]
+}

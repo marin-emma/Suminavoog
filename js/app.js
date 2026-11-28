@@ -39,7 +39,10 @@ if (isIndexPage) {
 
 function renderQuizCards(quizzes) {
   const container = document.getElementById('quiz-list-container');
-  let html = ''; 
+  let html = `
+    <h2>Küsimustikud</h2>
+    <p>Täida ära mõni küsimustik ja saad teada enda kohta midagi uut.</p>
+  `;
 
   quizzes.forEach(quiz => {
     const creditLine = quiz.credit
